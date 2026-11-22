@@ -2909,6 +2909,86 @@
   "lideranca": null
  },
  {
+  "id": "cimbres-arsenal-marinha-1819",
+  "titulo": "Governador de Pernambuco manda 50 indígenas de Cimbres ao Arsenal da Marinha e autoriza a prisão de todos os que recusaram",
+  "data_inicio": "1819",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Pesqueira",
+   "uf": "PE",
+   "regiao": "Vila de Cimbres",
+   "terra_indigena": "Xukuru"
+  },
+  "povos": [
+   "Xukuru"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "presos",
+   "observacao": "Sem número de presos. A ordem era enviar \"cinquenta índios de Cimbres para servir no Arsenal da Marinha\"; diante da recusa, o governador \"autorizou a prisão de todos\" os envolvidos (Dantas, 2022)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "O governador Luís do Rego Barreto ordenou o envio de cinquenta indígenas de Cimbres para o trabalho compulsório no Arsenal da Marinha, como já se fazia com os da aldeia de Escada. Os indígenas se recusaram a sair do aldeamento, e o governador autorizou a prisão dos envolvidos (Dantas, 2022).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/rieb/a/8Wv6d4r6fDm7zcgVxhChqQk/?lang=pt",
+    "veiculo": "Mariana Albuquerque Dantas, \"O reverso da outra independência\", Revista do Instituto de Estudos Brasileiros, n. 82",
+    "tipo": "artigo",
+    "data": "2022-08"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "milicia-ligeiros-grao-para-1821",
+  "titulo": "Autoridades do Grão-Pará impõem trabalho forçado aos indígenas recrutados como Milicianos Ligeiros",
+  "data_inicio": "1821",
+  "data_fim": "1831",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "PA",
+   "regiao": "Província do Grão-Pará",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas \"avilados\" do Grão-Pará"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "escravizados",
+   "observacao": "ESCRAVIZAÇÃO e trabalho forçado, sem número total. Os recrutados \"ficassem literalmente presos, em troncos ou cadeias, até que o número desejado de trabalhadores fosse alcançado\", e os Ligeiros trabalhavam \"sob a mira de armas\", com salários baixos e atrasados (Machado, 2021). Nenhuma estimativa de vítimas encontrada."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "No Pará da Independência, indígenas aldeados eram recrutados à força como \"Milicianos Ligeiros\" e distribuídos para trabalhos públicos, como o Arsenal da Marinha e as \"Fábricas Nacionais\", e para atividades privadas de extração e transporte. O recrutamento era feito com prisões em troncos e cadeias, e o trabalho, sob a mira de armas (Machado, 2021).",
+  "fontes": [
+   {
+    "url": "https://www.redalyc.org/journal/2210/221070900016/html/",
+    "veiculo": "André Roberto de A. Machado, \"O trabalho compulsório indígena no Grão-Pará\" (1821-31), História (São Paulo), v. 40, e2021017",
+    "tipo": "artigo",
+    "data": "2021"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
   "id": "cimbres-xukuru-extincao",
   "titulo": "Extinção do aldeamento de Cimbres e perda das terras xukuru",
   "data_inicio": "1822",
@@ -3061,6 +3141,139 @@
   "data_estimada": true
  },
  {
+  "id": "maranguape-bricio-acoites-1822",
+  "titulo": "Capitão-mor Marcos Antônio Brício quebra a palavra dada e manda espancar e açoitar indígenas da serra de Maranguape",
+  "data_inicio": "1822-09",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Maranguape",
+   "uf": "CE",
+   "regiao": "Serra de Maranguape (termo da vila de Arronches)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas de Arronches e Maranguape (povo não identificado na fonte)"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "presos",
+   "observacao": "\"vários revoltosos\" presos e enviados a Fortaleza; os homens levaram \"roda de pau\" e as mulheres, palmatória. O relatório do novo governo ao imperador trazia \"um abaixo-assinado de 21 indígenas envolvidos\", que não é contagem de presos. Mínimo pelo plural."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O novo governo cearense, favorável a d. Pedro, reconheceu \"a injustiça com que foram presos, e até cruelmente açoitados os índios da serra de Maranguape\" e pediu a soltura e o perdão dos indígenas (Costa, 2019).",
+  "resumo": "Na repressão a um levante em Maranguape em setembro de 1822, o capitão-mor Marcos Antônio Brício garantiu segurança aos indígenas, que devolveram o que tinham tomado; em seguida, \"violou a sua palavra; mandou passar roda de pau aos homens\" e palmatória nas mulheres, e muitos foram presos (Costa, 2019).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/alm/a/BfMqfMytszBVSDxKHGZBPgw/?lang=pt",
+    "veiculo": "João Paulo Peixoto Costa, Almanack, n. 21",
+    "tipo": "artigo",
+    "data": "2019"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A expedição prendeu os revoltosos \"em menos de cinco dias\" depois do levante de setembro de 1822, segundo a fonte."
+ },
+ {
+  "id": "cimbres-serqueira-recrutamento-1824",
+  "titulo": "Tropa do capitão-mor Manoel José de Serqueira ataca os indígenas de Cimbres para recrutá-los à força",
+  "data_inicio": "1824",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Pesqueira",
+   "uf": "PE",
+   "regiao": "Vila de Cimbres, aldeia do Ararobá",
+   "terra_indigena": "Xukuru"
+  },
+  "povos": [
+   "Xukuru"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 20,
+   "max": 20,
+   "unidade": "pessoas",
+   "observacao": "ESTIMATIVA do próprio comandante: \"muitos morreram, embora não se soubesse seu número exato, porque afirma que vários foram morrer nos matos. Estima, no entanto, cerca de 20 mortos\" (Dantas, 2022)."
+  },
+  "natureza_contagem": "estimada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Depois da devassa de 1824, o capitão-mor Manoel José de Serqueira tentou recrutar à força cerca de 300 indígenas da aldeia do Ararobá para o Exército. Diante da recusa do capitão-mor dos índios, voltou quase um mês depois com tropas de companhias vizinhas e atacou Cimbres, matando cerca de 20 indígenas, segundo sua própria estimativa (Dantas, 2022).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/rieb/a/8Wv6d4r6fDm7zcgVxhChqQk/?lang=pt",
+    "veiculo": "Mariana Albuquerque Dantas, \"O reverso da outra independência\", Revista do Instituto de Estudos Brasileiros, n. 82",
+    "tipo": "artigo",
+    "data": "2022-08"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 85,
+    "max": 85,
+    "unidade": "presos",
+    "observacao": "\"Foram presos 60 indígenas, em sua maioria casados, e outros 25 foram recrutados, sendo estes solteiros\"; outros 32 se renderam depois."
+   }
+  ]
+ },
+ {
+  "id": "pacatuba-sargento-mor-preso-1826",
+  "titulo": "Liderança dos indígenas de Pacatuba é presa para ser enviada à força à Marinha, em disputa pela terra da missão",
+  "data_inicio": "1826-12",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "SE",
+   "regiao": "Aldeamento de São Félix de Pacatuba; cadeia de Vila Nova",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas de Pacatuba (Karapotó, Kaxagó e Natu)"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "presos",
+   "observacao": "O sargento-mor Serafim José Vieira, \"principal líder\" dos indígenas de Pacatuba, preso para seguir \"compulsoriamente, para o Rio de Janeiro a serviço da Marinha\". A fonte não descreve violência física contra ele."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 1826, um senhor de engenho que cobiçava a terra da missão de Pacatuba conseguiu nomear um parente diretor da aldeia, e o principal líder indígena foi preso para ser mandado à força para a Marinha. Cerca de 250 indígenas, com arcos e flechas, ocuparam a cadeia de Vila Nova para libertá-lo (Santana, 2011).",
+  "fontes": [
+   {
+    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548856707_e93191ff86f2e47fef15e3e66aa5eb38.pdf",
+    "veiculo": "Pedro Abelardo de Santana, \"Extinção de aldeamentos e resistência indígena em Sergipe: 1840-1860\", anais do XXVI Simpósio Nacional da ANPUH",
+    "tipo": "artigo",
+    "data": "2011-07"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Sargento-mor (Serafim José Vieira)",
+  "data_estimada": true,
+  "nota_data": "A fonte cita ofício de 19/12/1826 sobre a ocupação da cadeia; a prisão é anterior."
+ },
+ {
   "id": "mucuri-bandeira-cro-crahy-1830",
   "titulo": "Bandeira contra aldeia no Mucuri, com apoio do governo provincial",
   "data_inicio": "1830",
@@ -3129,7 +3342,7 @@
   "vitimas": {
    "min": 30000,
    "max": 40000,
-   "observacao": "Estimativa de cerca de 30 mil mortos atribuída a Domingos Antonio Raiol e repetida pela historiografia; algumas fontes falam em até 40 mil. Inclui indígenas, caboclos e negros; não é possível isolar o número de indígenas."
+   "observacao": "Estimativa de cerca de 30 mil mortos atribuída a Domingos Antonio Raiol e repetida pela historiografia; algumas fontes falam em até 40 mil. Inclui indígenas, caboclos e negros; não é possível isolar o número de indígenas. Marta Amoroso (ISA, verbete Mura) registra a estimativa de 40.000 mortos, \"ou aproximadamente um terço da incerta população amazônida da época\", e diz que os Mura, tratados genericamente como \"cabanos\", eram \"passíveis de serem legalmente exterminados, escravizados (remetidos a corpos militares de trabalhadores) ou desterrados\"."
   },
   "natureza_contagem": "estimada",
   "grau_confirmacao": "apurado",
@@ -3155,8 +3368,54 @@
     "veiculo": "Anais ANPUH",
     "tipo": "artigo",
     "data": null
+   },
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Mura",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Mura (Marta Amoroso)",
+    "tipo": "artigo",
+    "data": null
    }
   ],
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "valenca-aldeia-camara-aforamentos-1835",
+  "titulo": "Lei provincial entrega as terras da aldeia de Valença à Câmara, que as afora a particulares",
+  "data_inicio": "1835-04-14",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Valença",
+   "uf": "RJ",
+   "regiao": "Médio Paraíba",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas da aldeia de Valença (chamados de \"Coroados\" nas fontes)"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "aldeias",
+   "observacao": "As terras da aldeia de Valença, já transformada em vila. Antes, o fiscal da Câmara tentara \"por duas vezes, usurpar as terras do aldeamento\"; o aldeamento vizinho do Rio Bonito já estava todo arrendado e aforado no fim da década de 1820 (Alvarenga, 2022)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "\"Por Lei Provincial de 14 de abril de 1835, passavam aquelas terras a ser patrimônio da Câmara Municipal\", que passou a distribuí-las em aforamentos; em 1836, a Câmara nomeou comissão para regular os aforamentos (Alvarenga, 2022).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/rh/a/ZNsC5Xpnt7bJsqQfbdFgGbq/",
+    "veiculo": "Felipe de Melo Alvarenga, Revista de História (USP)",
+    "tipo": "artigo",
+    "data": "2022"
+   }
+  ],
+  "imagem": null,
   "status": "aprovado",
   "origem": "manual",
   "lideranca": null
@@ -3210,6 +3469,159 @@
   "data_estimada": true
  },
  {
+  "id": "corpos-de-trabalhadores-para-1838",
+  "titulo": "Província do Pará recruta à força indígenas e não brancos pobres nos Corpos de Trabalhadores",
+  "data_inicio": "1838-04-25",
+  "data_fim": "1859-11-15",
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "PA",
+   "regiao": "Província do Grão-Pará",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas \"avilados\" e outros povos do Grão-Pará"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "escravizados",
+   "observacao": "ESCRAVIZAÇÃO e trabalho forçado, sem número de recrutados nas fontes consultadas. A lei de 1838 permitia recrutar \"all men of color age 10 and up\"; o corpo reunia \"Indians, mestiços, and free and freed blacks\" (Paz), \"sobretudo\" indígenas avilados (Machado), que só podiam deixar as vilas com autorização. Fugitivos capturados podiam receber \"up to 300 lashes\" (viajante Edwards, citado por Paz). Para Marta Amoroso (ISA), os Mura tratados como \"cabanos\" eram passíveis de serem \"escravizados (remetidos a corpos militares de trabalhadores)\". Inclui não indígenas. Nenhuma estimativa encontrada."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Abolidos pela Lei provincial 330, de 15/11/1859 (Paz). Sem informação sobre responsabilização.",
+  "resumo": "Criados na repressão à Cabanagem pela lei provincial de 25/04/1838, os Corpos de Trabalhadores obrigaram indígenas, mestiços e negros livres e libertos ao trabalho sob controle militar. Presos cabanos e suspeitos \"foram recrutados forçosamente\" (Ricci); \"à mortandade cabana se seguiu a dos corpos de trabalhadores\".",
+  "fontes": [
+   {
+    "url": "https://www.cambridge.org/core/product/D5723C548661957D7ECF3FBE8BEA5CDD",
+    "veiculo": "Adalberto Paz, \"Free and Unfree Labor in the Nineteenth-Century Brazilian Amazon\", International Review of Social History, v. 62, supl. 25",
+    "tipo": "artigo",
+    "data": "2017"
+   },
+   {
+    "url": "https://www.redalyc.org/journal/2210/221070900016/html/",
+    "veiculo": "André Roberto de A. Machado, \"O trabalho compulsório indígena no Grão-Pará\" (1821-31), História (São Paulo), v. 40, e2021017",
+    "tipo": "artigo",
+    "data": "2021"
+   },
+   {
+    "url": "https://www.scielo.br/j/tem/a/ZX5z5skg9g7YyC47qtn533N/?lang=pt",
+    "veiculo": "Magda Ricci, \"Cabanagem, cidadania e identidade revolucionária\", Tempo, v. 11, n. 22",
+    "tipo": "artigo",
+    "data": "2007"
+   },
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Mura",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Mura (Marta Amoroso)",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "palmas-kaingang-esbulho-1839",
+  "titulo": "Fazendeiros tomam os campos de Palmas e Chapecó dos grupos kaingang de Vitorino Condá e Veri",
+  "data_inicio": "1839",
+  "data_fim": "1870",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "PR",
+   "regiao": "Campos de Palmas (Kreie-bang-rê) e Chapecó (PR/SC)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kaingang"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": null,
+   "unidade": "terras",
+   "observacao": "Os campos de Palmas e Chapecó; sem número de pessoas. Antes, a ocupação do Campo do Pinhão pelos fazendeiros fez Vitorino Condá se retirar para Palmas. Souza cita também a invasão da sesmaria de Atalaia (ver `atalaia-guarapuava-esbulho`), que não é contada aqui."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Em 1865, Condá entrou com ação na Justiça de Guarapuava contra a invasão de suas terras por fazendeiros. Depois de sua morte, em 1870, o fazendeiro Joaquim José Gonçalves tentou se apossar das terras; o governo da província mandou o juiz de Guarapuava garantir o direito dos filhos de Condá. Sem informação sobre o desfecho.",
+  "resumo": "\"Em 1839, os fazendeiros conquistaram e ocuparam os campos de Kreie-bang-rê\" (ISA). Os capitães Domingos Ignácio de Araújo e Pedro de Siqueira Cortez \"usurparam dos grupos comandados pelos Kaingang Estevão do Nascimento Veri e Vitorino Condá as terras indígenas nos campos de Palmas e Chapecó\" e legalizaram as posses como cúmplices do Estado (Souza, 2015).",
+  "fontes": [
+   {
+    "url": "http://www.scielo.br/j/rbh/a/JKJyRXswxRTkTsbdF39PMXq/?lang=pt",
+    "veiculo": "Almir Antonio de Souza, artigo sobre Vitorino Condá, Revista Brasileira de História, v. 35, n. 70",
+    "tipo": "artigo",
+    "data": "2015"
+   },
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Kaingang",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Kaingang",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Lideranças kaingang (Vitorino Condá e Estevão do Nascimento Veri)"
+ },
+ {
+  "id": "kraho-pedro-afonso-1848",
+  "titulo": "Fazendeiros conseguem a transferência dos Krahô para Pedro Afonso, onde epidemias os reduzem a 620",
+  "data_inicio": "1848",
+  "data_fim": "1852",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Pedro Afonso",
+   "uf": "TO",
+   "regiao": "Confluência do rio do Sono com o Tocantins (então Goiás)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Krahô"
+  ],
+  "tipo": "indireta",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Sem número de mortos nas epidemias de 1849–1850. Em 1852, pelo censo do missionário Rafael de Taggia, os Krahô \"tinham caído para 620, após as mortes causadas pelas epidemias\"; no início do século XIX eram estimados em três ou quatro mil, mas a queda cobre meio século e não pode ser atribuída só às epidemias."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 1848, fazendeiros conseguiram que o capuchinho Rafael de Taggia transferisse os Krahô para Pedro Afonso, no Tocantins. Nas epidemias de 1849–1850, o povo caiu a 620 pessoas, segundo o censo do próprio missionário (Melatti, ISA).",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Krah%C3%B4",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Krahô (Julio Cezar Melatti)",
+    "tipo": "artigo",
+    "data": "1999-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": null,
+    "max": null,
+    "unidade": "deslocados",
+    "observacao": "DESLOCAMENTO FORÇADO: os fazendeiros, alegando roubo de gado, \"conseguiram que o missionário capuchinho Frei Rafael de Taggia os transferisse para Pedro Afonso\" em 1848. Sem número de pessoas."
+   }
+  ]
+ },
+ {
   "id": "atalaia-guarapuava-esbulho",
   "titulo": "Fazendeiros de Guarapuava tomam a sesmaria do aldeamento kaingang de Atalaia",
   "data_inicio": "1849",
@@ -3250,6 +3662,144 @@
   "lideranca": null,
   "nota_data": "Mota fala em \"passados 30 anos\" desde a sesmaria de 1819 e cita o esbulho em documentos de 1854; o início é estimado.",
   "data_estimada": true
+ },
+ {
+  "id": "trezentas-orelhas-sao-mateus",
+  "titulo": "Militar massacra uma aldeia e chega a São Mateus com \"300 orelhas\" como prova",
+  "data_inicio": "1850",
+  "data_fim": null,
+  "precisao_data": "seculo",
+  "local": {
+   "municipio": "São Mateus",
+   "uf": "ES",
+   "regiao": null,
+   "terra_indigena": null
+  },
+  "povos": [
+   "Borum (chamados de \"Botocudos\" pelos colonizadores)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Sem número de mortos. O militar chegou a São Mateus com o \"asqueroso despojo de 300 orelhas\"; a fonte não converte isso em número de pessoas, e o projeto não faz essa conta. A identificação do povo vem do contexto do artigo, sobre os Borum do Mucuri e do norte do Espírito Santo."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Otoni omitiu o nome do militar, \"pessoa estimável a outros respeitos, cujo nome omito em razão de seus cabelos brancos\". Sem responsabilização.",
+  "resumo": "Segundo Teófilo Otoni, citado por Vânia Moreira, um militar praticou \"pelo método Cro e Crahy\" uma carnificina contra uma aldeia e chegou a São Mateus com \"300 orelhas\" para comprovar a \"façanha\" (Moreira, 2020).",
+  "fontes": [
+   {
+    "url": "https://www.redalyc.org/journal/5798/579865460006/html/",
+    "veiculo": "Vânia Moreira, \"Kruk, Kuruk, Kuruca: genocídio e tráfico de crianças no Brasil imperial\", História Unisinos, v. 24, n. 3",
+    "tipo": "artigo",
+    "data": "2020"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A fonte não data o ataque. Ele é relatado por Teófilo Otoni em \"Notícias sobre os selvagens do Mucuri\" (reedição de 2002); o ano 1850 é só um marcador no século XIX."
+ },
+ {
+  "id": "apinaje-sarampo-1877",
+  "titulo": "Epidemia de sarampo reduz os Apinajé do aldeamento de Boa Vista",
+  "data_inicio": "1851",
+  "data_fim": "1877",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Tocantinópolis",
+   "uf": "TO",
+   "regiao": "Aldeamento de Boa Vista (então Goiás)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Apinajé"
+  ],
+  "tipo": "indireta",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Sem número de mortos. O aldeamento de Boa Vista \"era calculado como tendo 2.822 índios\" em 1851; em 1877, o relatório provincial informava 1.564, \"justificando o decréscimo populacional em razão de uma epidemia de sarampo\" (ISA). A diferença não pode ser lida como número de mortos pela epidemia."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Segundo relatórios da província de Goiás citados pelo ISA, os Apinajé do aldeamento de Boa Vista passaram de 2.822 pessoas em 1851 para 1.564 em 1877, queda que o governo atribuiu a uma epidemia de sarampo.",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Apinay%C3%A9",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Apinajé (Maria Elisa Ladeira e Gilberto Azanha)",
+    "tipo": "artigo",
+    "data": "2003-10"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "O relatório provincial de 1877 atribui ao sarampo a queda desde a contagem de 1851; a data da epidemia não é dada."
+ },
+ {
+  "id": "sergipe-diretoria-indios-extinta-1853",
+  "titulo": "Decreto imperial declara que não há mais indígenas em Sergipe e extingue a Diretoria Geral dos Índios da província",
+  "data_inicio": "1853-04-06",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "SE",
+   "regiao": "Província de Sergipe",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kiriri (Geru)",
+   "Karapotó, Kaxagó e Natu (Pacatuba)",
+   "Indígenas de Água Azeda, Japaratuba e São Pedro do Porto da Folha"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 5,
+   "max": 5,
+   "unidade": "aldeias",
+   "observacao": "Os cinco aldeamentos sergipanos que chegaram ao século XIX: Geru, Água Azeda, Japaratuba, Pacatuba e São Pedro do Porto da Folha. Com a extinção da Diretoria, \"os índios perderam o direito a terra\"; um aldeamento manteve um diretor parcial, e em seguida \"ocorreu a venda das terras dos aldeamentos\" (Santana, 2011). Para Vânia Moreira, citando Manuela Carneiro da Cunha, a medida foi \"uma tentativa de demonstração do desaparecimento dos indígenas no local\"."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "O Decreto n. 1.139, de 6 de abril de 1853, \"não existindo na Provincia de Sergipe indios que estejam nas circunstancias previstas no Decreto n. 426\", suprimiu a Diretoria Geral dos Índios da província, negando oficialmente a existência dos povos aldeados de Sergipe.",
+  "fontes": [
+   {
+    "url": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-1139-6-abril-1853-558861-publicacaooriginal-80530-pe.html",
+    "veiculo": "Câmara dos Deputados, Legislação Informatizada: Decreto n. 1.139, de 6 de abril de 1853",
+    "tipo": "oficial",
+    "data": "1853-04-06"
+   },
+   {
+    "url": "https://www.scielo.br/j/rbh/a/5Z6L7yJgRt6ZqGD9FzKkXZs/?lang=pt",
+    "veiculo": "Vânia Moreira, Revista Brasileira de História, v. 22, n. 43",
+    "tipo": "artigo",
+    "data": "2002"
+   },
+   {
+    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548856707_e93191ff86f2e47fef15e3e66aa5eb38.pdf",
+    "veiculo": "Pedro Abelardo de Santana, \"Extinção de aldeamentos e resistência indígena em Sergipe: 1840-1860\", anais do XXVI Simpósio Nacional da ANPUH",
+    "tipo": "artigo",
+    "data": "2011-07"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "kariri-sapuya-1854",
@@ -3383,6 +3933,183 @@
   "lideranca": null
  },
  {
+  "id": "imperial-affonsino-puri-1858",
+  "titulo": "Invasões de fazendeiros praticamente extinguem o aldeamento Imperial Affonsino",
+  "data_inicio": "1858",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "ES",
+   "regiao": "Aldeamento Imperial Affonsino",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Puri"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "aldeias",
+   "observacao": "Sem número de pessoas. Fonte única, sem documento citado no trecho."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "O aldeamento Imperial Affonsino, no Espírito Santo, \"fundado na década de 1840, estava praticamente extinto por volta de 1858, devido às invasões dos fazendeiros\" (Moreira, 2002).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/rbh/a/5Z6L7yJgRt6ZqGD9FzKkXZs/?lang=pt",
+    "veiculo": "Vânia Moreira, Revista Brasileira de História, v. 22, n. 43",
+    "tipo": "artigo",
+    "data": "2002"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A fonte diz \"por volta de 1858\"; o aldeamento foi fundado na década de 1840."
+ },
+ {
+  "id": "botucatu-theodoro-leme-1861",
+  "titulo": "José Theodoro de Souza e Antonio Leme atacam indígenas durante o sono na região de Botucatu",
+  "data_inicio": "1861",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "SP",
+   "regiao": "Região de Botucatu",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kaingang (identificação incerta)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Sem número: Leme, \"empunhando duas facas, aproveitando-se do espanto, esfaqueou grande número deles, seguindo-se grande mortandade\". Nenhuma estimativa encontrada."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O juiz Felipe Correa Pacheco citou o caso como exemplo de ação \"baseada na vingança particular\". Sem informação sobre investigação.",
+  "resumo": "Numa entrada na região de Botucatu, José Theodoro de Souza e seu parente Antonio Leme surpreenderam indígenas dormindo, tomaram suas armas e Leme esfaqueou muitos deles, \"seguindo-se grande mortandade\", segundo o juiz municipal da vila (Dornelles, 2020).",
+  "fontes": [
+   {
+    "url": "http://www.scielo.br/j/his/a/9txbBvSTmctksLWRx9x7F4k/?lang=pt",
+    "veiculo": "Soraia Sales Dornelles, \"Expansão da fronteira agrícola do centro-sudoeste paulista na segunda metade do século XIX\", História (São Paulo), v. 39",
+    "tipo": "artigo",
+    "data": "2020"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "O ataque é citado num documento do juiz municipal de Botucatu ao chefe de polícia de 1861 (APESP, maço de outubro de 1861); a data do ataque não é dada e pode ser anterior."
+ },
+ {
+  "id": "botucatu-bandeira-felicissimo-1862",
+  "titulo": "Bandeira de Felicíssimo Antonio Pereira mata indígenas nas matas de Botucatu",
+  "data_inicio": "1862",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Botucatu",
+   "uf": "SP",
+   "regiao": "Matas de Botucatu",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kaingang (identificação incerta)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 17,
+   "unidade": "pessoas",
+   "observacao": "As fontes divergem: o próprio Felicíssimo admitiu que um tiro \"acerta em uma índia que ferio-a e logo morreu\"; o Correio Mercantil disse que ele \"extermina 16 índios, entre os quais uma pobre índia de 13 anos de idade\"; no inquérito do juiz municipal, seu primo João Baptista Pereira falou em \"nove índios na primeira entrada e oito na segunda\". A autora lembra que a documentação chamava de Kaingang (\"Coroados\") os indígenas não aldeados e recomenda \"a prudência da dúvida\" sobre o povo."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O juiz municipal de Botucatu abriu inquérito; o Diretor Geral dos Índios, José Joaquim Machado de Oliveira, desqualificou a acusação como \"disse que me disse\". Sem informação sobre punição.",
+  "resumo": "Nomeado diretor de índios, Felicíssimo Antonio Pereira levou uma bandeira de 135 homens às matas de Botucatu para \"chegar de surpresa onde estavam os índios alojados\". Ele admitiu uma morte, \"filho de um inocente acaso\"; o Correio Mercantil denunciou 16 mortos e um inquérito ouviu acusação de 17 (Dornelles, 2020).",
+  "fontes": [
+   {
+    "url": "http://www.scielo.br/j/his/a/9txbBvSTmctksLWRx9x7F4k/?lang=pt",
+    "veiculo": "Soraia Sales Dornelles, \"Expansão da fronteira agrícola do centro-sudoeste paulista na segunda metade do século XIX\", História (São Paulo), v. 39",
+    "tipo": "artigo",
+    "data": "2020"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A bandeira invocou a portaria provincial de 14/03/1862; a denúncia do Correio Mercantil é de \"S. Paulo, 29 de setembro de 1862\". A bandeira saiu entre março e setembro de 1862.",
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 2,
+    "max": 2,
+    "unidade": "escravizados",
+    "observacao": "Felicíssimo relatou que, no mesmo período, num ataque ligado à casa de João Fernandes, duas indígenas foram mortas e duas crianças tomadas, \"fato este que por longe consta-me ser atribuído a gente de minha bandeira\". Captura de crianças (ESCRAVIZAÇÃO); a autoria é atribuída à bandeira por terceiros."
+   }
+  ]
+ },
+ {
+  "id": "botucatu-capturas-felicissimo-1863",
+  "titulo": "Homens de Felicíssimo Antonio Pereira capturam mulheres e meninas indígenas em Botucatu",
+  "data_inicio": "1863",
+  "data_fim": "1864",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Botucatu",
+   "uf": "SP",
+   "regiao": null,
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kaingang (identificação incerta)"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 5,
+   "max": 7,
+   "unidade": "escravizados",
+   "observacao": "ESCRAVIZAÇÃO (captura e cativeiro). Na primeira captura, um sertanejo tomou uma menina de cerca de três anos, batizada como Eugenia, e se recusou a entregá-la; a mãe conseguiu escapar. Na segunda, num cerco à roça mandada fazer por Felicíssimo, foram capturadas \"uma mulher de mais idade, de três meninas, e duas meninas de oito à dez anos\", mantidas na casa dele (de quatro a seis pessoas, conforme a leitura da frase). Felicíssimo escreveu que \"elas mostram muita tendência de fugirem\"."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Entre 1863 e 1864, homens ligados ao diretor de índios Felicíssimo Antonio Pereira cercaram acampamentos e roças em Botucatu e capturaram mulheres e meninas indígenas, que ele manteve em casa como passo para \"o feliz resultado da catequese\" (Dornelles, 2020).",
+  "fontes": [
+   {
+    "url": "http://www.scielo.br/j/his/a/9txbBvSTmctksLWRx9x7F4k/?lang=pt",
+    "veiculo": "Soraia Sales Dornelles, \"Expansão da fronteira agrícola do centro-sudoeste paulista na segunda metade do século XIX\", História (São Paulo), v. 39",
+    "tipo": "artigo",
+    "data": "2020"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A primeira captura é relatada em ofício de 01/06/1863; a segunda, \"pouco tempo depois\", antes do ofício de 25/07/1864."
+ },
+ {
   "id": "ceara-extincao-indigenas-1863",
   "titulo": "Relatório provincial declara extintos os indígenas do Ceará e incorpora as terras das aldeias",
   "data_inicio": "1863-10-09",
@@ -3446,6 +4173,46 @@
   "lideranca": null,
   "nota_data": "As fontes divergem quanto à data do relatório: 9 de outubro de 1863 segundo a bibliografia do artigo da RBH; 9 de abril de 1863, \"para ocasião da abertura dos trabalhos da Assembleia Legislativa\", segundo Antunes (2012).",
   "data_estimada": false
+ },
+ {
+  "id": "kaapor-guarda-nacional-1864",
+  "titulo": "Guarda Nacional destroça uma aldeia Ka'apor e persegue os sobreviventes até as cabeceiras do Guamá e do Gurupi",
+  "data_inicio": "1864",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "PA",
+   "regiao": "Bacia do rio Guamá até as cabeceiras do Guamá e do Gurupi",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Ka'apor (chamados de \"Urubu\" pelos colonizadores)"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "aldeias",
+   "observacao": "Uma aldeia destroçada por 25 soldados; meses depois, 150 soldados perseguiram os remanescentes. A fonte não dá número de mortos."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 1864, depois de saques de homens Ka'apor a vilas da bacia do Guamá, 25 soldados da Guarda Nacional \"destroçaram uma aldeia Ka'apor\"; meses mais tarde, 150 soldados \"perseguiram os remanescentes Ka'apor até as cabeceiras dos rios Guamá e Gurupi\" (Balée, ISA).",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Ka'apor",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Ka'apor (William Balée)",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "guerra-paraguai-guana-1864",
@@ -3541,6 +4308,46 @@
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "sao-lourenco-niteroi-extincao-1866",
+  "titulo": "Governo imperial extingue o aldeamento de São Lourenço, em Niterói, e passa as terras ao Estado",
+  "data_inicio": "1866-10-31",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Niterói",
+   "uf": "RJ",
+   "regiao": "Aldeamento de São Lourenço",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas do aldeamento de São Lourenço"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "aldeias",
+   "observacao": "Em 1848, o relatório provincial registrava ali só 92 indígenas. Com a extinção, \"ali já não mais existiam índios, declarados inexistentes pelas autoridades provinciais\" (Sampaio, 2022)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "O aldeamento de São Lourenço \"foi extinto por meio do Aviso de 31 de outubro de 1866\", e as terras restantes passaram ao domínio do Estado. Para Patrícia Sampaio, o esbulho das terras indígenas no Rio de Janeiro do século XIX se deu \"com intensa participação das câmaras, as quais, aparentemente, foram as grandes beneficiárias desse processo\".",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/alm/a/HfjjktJfYWMCqMDysSNkZpJ/",
+    "veiculo": "Patrícia Melo Sampaio, Almanack, n. 30",
+    "tipo": "artigo",
+    "data": "2022"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "terena-pos-guerra-esbulho",
@@ -3710,7 +4517,7 @@
   "vitimas": {
    "min": 8,
    "max": 8,
-   "observacao": "Oito aldeamentos extintos, dos quais só dois ressurgiram na República (Silva Júnior, ANPUH 2011). A população indígena de Palmeira dos Índios foi calculada em 576 pessoas em 1853 (Funai)."
+   "observacao": "Oito aldeamentos extintos, dos quais só dois ressurgiram na República (Silva Júnior, ANPUH 2011). A população indígena de Palmeira dos Índios foi calculada em 576 pessoas em 1853 (Funai). Para os Kariri-Xocó de Porto Real do Colégio, o ISA registra que, \"alegando a inexistência de 'índios de raça primitiva', as aldeias são extintas em 17 de julho de 1873 pelo Ministério de Agricultura, Comércio e Obras Públicas\"."
   },
   "natureza_contagem": "documentada",
   "grau_confirmacao": "oficial",
@@ -3731,10 +4538,315 @@
     "veiculo": "Silva Júnior, ANPUH XXVI",
     "tipo": "artigo",
     "data": "2011-07"
+   },
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Kariri-Xok%C3%B3",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Kariri-Xocó (Vera Lúcia Calheiros Mata)",
+    "tipo": "artigo",
+    "data": "1999-05"
    }
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "riacho-do-mato-barreiros-extincao-1873",
+  "titulo": "Pernambuco extingue os aldeamentos de Riacho do Mato e Barreiros e instala uma colônia de retirantes nas terras indígenas",
+  "data_inicio": "1873",
+  "data_fim": "1878",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "PE",
+   "regiao": "Riacho do Mato e Barreiros",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Indígenas de Escada, Barreiros e Riacho do Mato"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 2,
+   "max": 2,
+   "unidade": "aldeias",
+   "observacao": "Os dois aldeamentos extintos em 1873. Em abril de 1878, a Colônia Socorro foi fundada no Riacho do Mato com cerca de 4 mil retirantes, chegando a 9 mil meses depois; 70 lotes \"já estavam distribuídos\" com indígenas da antiga aldeia de Escada. Em 1892, a indígena Maria Madalena da Conceição pediu providências contra \"incêndios e perseguições\" de posseiros vizinhos, com uma lista de cerca de 140 famílias indígenas que ainda viviam no local (Dantas, 2018). Em 1862, Manuel Valentim e outros indígenas que defendiam a aldeia tinham sido presos sob acusação de desobediência, invasão de terras e sedição."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "\"Em 1873 foi declarada a sua extinção em conjunto com a do aldeamento de Barreiros\", com divisão das terras em lotes. Em 1878, o governo instalou no Riacho do Mato uma colônia agrícola para milhares de retirantes da seca. \"Na província de Pernambuco, ao final da década de 1870, já não existia nenhum aldeamento\" (Dantas, 2018).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-01882018000100081",
+    "veiculo": "Mariana Albuquerque Dantas, Revista Brasileira de História, v. 38, n. 77",
+    "tipo": "artigo",
+    "data": "2018"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "moura-expedicao-falcao-1873",
+  "titulo": "Tropas do governo do Amazonas atacam os Waimiri-Atroari depois da ocupação de Moura, com metralhamento de canoas segundo a tradição local",
+  "data_inicio": "1873-01",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "AM",
+   "regiao": "Moura e lago próximo, baixo rio Negro; Urubu-Cuaru",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Waimiri-Atroari (chamados de \"Crichanás\" por Barbosa Rodrigues)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Sem número. A lancha encontrou num lago \"11 UBÁS vazias que fluctuavam, e grande número de corpos\"; oficialmente, os indígenas teriam morrido afogados, mas \"o que a tradição ainda conserva\" é \"que metralharam as canôas, matando á bala os que procuraram salvar-se a nado\". Na força por terra, comandada pelo tenente Pastana, o fogo durou do início da manhã até a noite: \"Não consta officialmente o numero de mortos, mas dizem que foi extraordinário\" (Barbosa Rodrigues, 1885, citado por Monte, 1992)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em janeiro de 1873, depois que os Waimiri-Atroari entraram em Moura, abandonada pelos moradores, o presidente da província mandou uma força de artilharia com duas lanchas artilhadas, sob o brigadeiro João do Rego Barros Falcão. Testemunhas ouvidas por Barbosa Rodrigues achavam que os indígenas \"vinham antes procurar a paz\"; a expedição deixou um número de mortos que não consta oficialmente (Monte, 1992).",
+  "fontes": [
+   {
+    "url": "https://pesquisa.museudoindio.gov.br/uploads/r/museu-nacional-dos-povos-indigenas/0/4/f/04f54cf12e04da0243119687f96342fab1e8083e28551cced3d3e360d3d5c7d5/MONTE_PAULO_-_ETNO-HISTORIA_WAIMIRI-ATROARI_1663-1962.pdf",
+    "veiculo": "Paulo Pinto Monte, \"Etno-história Waimiri-Atroari (1663-1962)\", dissertação de mestrado, PUC-SP (acervo do Museu Nacional dos Povos Indígenas)",
+    "tipo": "artigo",
+    "data": "1992"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "moura-tenente-horta-massacre-1874",
+  "titulo": "Destacamento do tenente Antonio de Oliveira Horta massacra Waimiri-Atroari em Moura e executa feridos numa lagoa",
+  "data_inicio": "1874-10-29",
+  "data_fim": "1874-11-23",
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "AM",
+   "regiao": "Freguesia de Moura e rio Jauaperi, baixo rio Negro",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Waimiri-Atroari (chamados de \"Crichanás\" por Barbosa Rodrigues)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 23,
+   "max": 224,
+   "unidade": "pessoas",
+   "observacao": "Mínimo: os \"23 índios feridos\" escondidos nas árvores, mortos a tiros um a um no dia seguinte ao ataque de novembro, \"no meio de gargalhadas geraes\"; os corpos foram empilhados e queimados em 23/11. Máximo: soma com o registro de 29/10/1874, segundo o qual os Crichanás apareceram \"em numero superior a 200 que foram mortos á bala, inclusive o chefe\"; a frase pode ser lida como se todos tivessem sido mortos ou não, por isso fica como teto. Houve ainda mortos sem número no ataque à lagoa (\"Morreram muitos\") (Barbosa Rodrigues, 1885, citado por Monte, 1992)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O comandante elogiou em sua parte os moradores que o ajudaram. Sem informação sobre responsabilização.",
+  "resumo": "Em outubro e novembro de 1874, o destacamento de Moura, sob o tenente Antonio de Oliveira Horta, saiu \"a dar caça aos índios\" no Jauaperi, destruiu canoas e cercou um grupo numa lagoa, onde fez \"vivo fogo\". No dia seguinte, soldados e moradores mataram os 23 feridos que se escondiam nas árvores. O relato é de João Barbosa Rodrigues, que o chamou de \"scena de cannibalismo\" dos civilizados (Monte, 1992).",
+  "fontes": [
+   {
+    "url": "https://pesquisa.museudoindio.gov.br/uploads/r/museu-nacional-dos-povos-indigenas/0/4/f/04f54cf12e04da0243119687f96342fab1e8083e28551cced3d3e360d3d5c7d5/MONTE_PAULO_-_ETNO-HISTORIA_WAIMIRI-ATROARI_1663-1962.pdf",
+    "veiculo": "Paulo Pinto Monte, \"Etno-história Waimiri-Atroari (1663-1962)\", dissertação de mestrado, PUC-SP (acervo do Museu Nacional dos Povos Indígenas)",
+    "tipo": "artigo",
+    "data": "1992"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "colegio-isabel-trafico-criancas-1876",
+  "titulo": "Diretores do Colégio Isabel traficam crianças indígenas para manter a verba do colégio no Araguaia",
+  "data_inicio": "1876",
+  "data_fim": "1888",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "GO",
+   "regiao": "Presídio Leopoldina, rio Araguaia",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Karajá",
+   "Kayapó",
+   "Tapirapé",
+   "Guajajara"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "escravizados",
+   "observacao": "ESCRAVIZAÇÃO: \"Crianças eram trocadas por ferramentas, enviavam-se soldados às aldeias para raptar meninos e meninas indígenas de seus pais\"; em 1888, Ehrenreich viu que \"o diretor tratava os índios como escravos, mandando-os trabalhar para ele\". Sem número; os \"pelo menos dez alunos\" são a cota da verba, não a contagem de vítimas. A fonte diz que a época de terror ficou na memória de Karajá, Kayapó, Tapirapé e Guajajara, sem dizer de quais povos eram as crianças."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Para manter a verba do Ministério da Agricultura, vinculada a pelo menos dez alunos indígenas, o Colégio Isabel, no Araguaia, passou a obter crianças trocando-as por ferramentas e mandando soldados raptá-las nas aldeias. Começava \"uma época de terror\" (Amoroso, 1998).",
+  "fontes": [
+   {
+    "url": "https://scielo.br/scielo.php?pid=S0102-69091998000200006&script=sci_arttext",
+    "veiculo": "Marta Rosa Amoroso, \"Mudança de hábito: catequese e educação para índios nos aldeamentos capuchinhos\", Revista Brasileira de Ciências Sociais, v. 13, n. 37",
+    "tipo": "artigo",
+    "data": "1998"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "O tráfico teria começado \"por volta de 1876\", quando Couto de Magalhães voltou ao Rio de Janeiro; o fim é a visita de Paul Ehrenreich, em 1888."
+ },
+ {
+  "id": "sao-pedro-alcantara-variola-1877",
+  "titulo": "Varíola mata cerca de 400 indígenas no aldeamento capuchinho de São Pedro de Alcântara",
+  "data_inicio": "1877",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "PR",
+   "regiao": "Aldeamento de São Pedro de Alcântara, rio Tibagi",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Guarani-Kaiowá",
+   "Kaingang",
+   "Guarani Nhandeva"
+  ],
+  "tipo": "indireta",
+  "vitimas": {
+   "min": 400,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "\"morrem 400 índios, sem contar os do sertão contaminados pelos parentes que fugiram do aldeamento\"; a epidemia \"atinge especialmente os Kaiowá\" (Amoroso, 1998). As fontes divergem quanto à doença e à data do extermínio dos Kaiowá do aldeamento: a Agência FAPESP, citando a mesma pesquisadora, diz que morreram \"devido a uma epidemia de cólera na década de 1860\". As fontes não indicam transmissão intencional."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Nos relatórios do missionário, \"a catequese prossegue próspera\"; para o frade, \"a vantagem que se retirava das tragédias era terem agora um número menor de índios\" (Amoroso). Sem responsabilização.",
+  "resumo": "Em 1877, uma epidemia de varíola no aldeamento capuchinho de São Pedro de Alcântara, no Paraná, matou cerca de 400 indígenas, sobretudo Kaiowá, e se espalhou pelo sertão com os que fugiram do aldeamento (Amoroso, 1998).",
+  "fontes": [
+   {
+    "url": "https://scielo.br/scielo.php?pid=S0102-69091998000200006&script=sci_arttext",
+    "veiculo": "Marta Rosa Amoroso, \"Mudança de hábito: catequese e educação para índios nos aldeamentos capuchinhos\", Revista Brasileira de Ciências Sociais, v. 13, n. 37",
+    "tipo": "artigo",
+    "data": "1998"
+   },
+   {
+    "url": "https://agencia.fapesp.br/a-politica-indigenista-e-o-malogrado-projeto-de-aldeamento-indigena-do-seculo-xix/23471",
+    "veiculo": "Agência FAPESP (José Tadeu Arantes)",
+    "tipo": "noticia",
+    "data": "2016-06-30"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "brejo-dos-padres-pankararu-extincao-1878",
+  "titulo": "Governo extingue o aldeamento de Brejo dos Padres e loteia terras pankararu",
+  "data_inicio": "1878",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Tacaratu",
+   "uf": "PE",
+   "regiao": "Brejo dos Padres",
+   "terra_indigena": "Pankararu"
+  },
+  "povos": [
+   "Pankararu"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "aldeias",
+   "observacao": "A única notícia oficial do aldeamento \"diz respeito à sua extinção, em 1878\" (ISA). As fontes divergem quanto à data: um decreto provincial de 1875 já listava Brejo dos Padres entre os aldeamentos cujas terras seriam divididas em lotes (Dantas, 2018)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Com a extinção do aldeamento de Brejo dos Padres, em 1878 segundo o ISA, as terras pankararu foram divididas em lotes. No século XX, a terra reivindicada pelos Pankararu correspondia à \"uma légua em quadra\" da antiga doação à missão (ISA; Dantas, 2018).",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Pankararu",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Pankararu (José Maurício Arruti)",
+    "tipo": "artigo",
+    "data": "2005-07"
+   },
+   {
+    "url": "https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-01882018000100081",
+    "veiculo": "Mariana Albuquerque Dantas, Revista Brasileira de História, v. 38, n. 77",
+    "tipo": "artigo",
+    "data": "2018"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "etueto-puri-fazendeiros-1878",
+  "titulo": "Fazendeiros tomam as terras do aldeamento puri do Etueto e expulsam as famílias indígenas",
+  "data_inicio": "1878",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "MG",
+   "regiao": "Vale do Manhuaçu (aldeamento da Imaculada Conceição do Etueto)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Puri"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "aldeias",
+   "observacao": "Sem número de pessoas. O administrador, frei Miguel Maria Angelo de Troina, foi acusado \"de roubo, de fraude e de permitir a entrada de fazendeiros nas terras pertencentes aos índios\"; os fazendeiros \"tomaram definitivamente posse destas terras e expulsaram as famílias indígenas\". As fontes divergem quanto à data: o texto diz 1878, e a nota cita relatório do Diretor Geral de Índios de agosto de 1887."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A Diretoria Geral dos Índios pediu a extinção do aldeamento por ser um \"inútil sorvedouro de partes das rendas públicas\", e o pedido foi aceito (Amantino, 2006).",
+  "resumo": "O aldeamento do Etueto, criado em 1875 no Vale do Manhuaçu para concentrar os Puri, foi arrendado a fazendeiros pelo próprio administrador capuchinho; em 1878 estava em extinção, e os fazendeiros expulsaram as famílias indígenas (Amantino, 2006).",
+  "fontes": [
+   {
+    "url": "https://www.scielo.br/j/vh/a/DPBhw4sSnG3jQRL794K7D4x/?lang=pt&format=html",
+    "veiculo": "Marcia Amantino, Varia Historia, v. 22, n. 35",
+    "tipo": "artigo",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "bugreiros-xokleng",
@@ -3804,6 +4916,106 @@
   "status": "aprovado",
   "origem": "manual",
   "lideranca": null
+ },
+ {
+  "id": "matte-larangeira-ervais-kaiowa-guarani",
+  "titulo": "Cia Matte Larangeira submete Kaiowá e Guarani à escravização por dívida nos ervais",
+  "data_inicio": "1882",
+  "data_fim": "1950",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "MS",
+   "regiao": "Ervais do sul do antigo Mato Grosso (Caarapó, Juti, Campanário, Sassoró, Porto Lindo e rio Iguatemi)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Guarani-Kaiowá",
+   "Guarani Nhandeva"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Mínimo: os bisavós da professora kaiowá Valdelice Veron, mortos a tiros por quatro capangas mandados pelo administrador quando deixavam o trabalho sem receber (relato da família, reproduzido por Brand et al.). Depoimentos kaiowá dizem que a companhia mandava \"o pistoleiro atrás\" de quem fugia (\"Se acha, mata e deixa lá\") e que \"matava muito índio e paraguaio\"; Gomes (1984, citado por Brand et al.) escreve que o fugitivo que não resistia era trazido de volta e \"espancado até a morte\". Sem total; nenhuma estimativa encontrada."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas. Em 1927, o funcionário do SPI Pimentel Barboza pediu que se libertassem os indígenas \"do domínio dos hervateiros paraguayos, fazendo cessar o regime de escravização (sic) em que vivem\".",
+  "resumo": "Com arrendamentos que chegaram a mais de 5 milhões de hectares no território kaiowá e guarani, a Cia Matte Larangeira prendia os trabalhadores indígenas dos ervais por dívidas no armazém da firma, num \"regime de escravização\" descrito pelo SPI em 1927. Quem fugia era perseguido por capangas; a família Veron conta que dois de seus antepassados foram mortos a tiros ao deixar o trabalho.",
+  "fontes": [
+   {
+    "url": "https://www.ifch.unicamp.br/ihb/Textos/AntBrand.pdf",
+    "veiculo": "Antônio Brand, Eva M. L. Ferreira e Fernando A. A. de Almeida (UCDB), \"Os Kaiowá e Guarani em tempos da Cia Matte Larangeira: negociações e conflitos\" (IFCH/Unicamp)",
+    "tipo": "artigo",
+    "data": null
+   },
+   {
+    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945022_b3ae1300f33a902b0d93e6704204fb41.pdf",
+    "veiculo": "José Augusto Santos Moraes (UFGD), \"Violência e corrupção no SPI: a situação dos indígenas no sul do Mato Grosso, uma abordagem a partir do Relatório Figueiredo (1960-1967)\", anais da ANPUH",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "nota_data": "Início: decreto imperial 8.799, de 9/12/1882, que arrendou as terras a Thomaz Larangeira (Brand et al.). Fim: a extração da erva-mate ficou \"até 1950, sob o monopólio\" da companhia (Moraes). Os depoimentos não datam as mortes.",
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": null,
+    "max": null,
+    "unidade": "escravizados",
+    "observacao": "ESCRAVIZAÇÃO por dívida: o trabalhador comprava no armazém da firma e assumia \"um compromisso do qual jamais se libertará a não ser pela fuga\" (relatório de Pimentel Barboza, SPI, 1927, citado por Brand et al.). Sem número de pessoas escravizadas. O mesmo relatório diz que os indígenas eram, em média, 75% dos trabalhadores da erva na região do Iguatemi e que no estabelecimento de Mangahy a \"população indígena seria superior a 200 índios\"; a fonte não diz quantos estavam presos por dívida."
+   }
+  ]
+ },
+ {
+  "id": "pedra-branca-kariri-sapuya-kamaka-1884",
+  "titulo": "Kariri-Sapuyá e Kamakã são expulsos de Pedra Branca, no Recôncavo baiano",
+  "data_inicio": "1884",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "BA",
+   "regiao": "Pedra Branca, porção sul do Recôncavo",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kariri-Sapuyá",
+   "Kamakã"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": null,
+   "max": null,
+   "unidade": "deslocados",
+   "observacao": "DESLOCAMENTO FORÇADO, sem número. A fonte não diz quem os expulsou; diz que, depois da expulsão, \"uns resistiram, aí, por certo tempo, outros foram aniquilados e outros tantos se dispersaram\", reunindo-se anos depois em Santa Rosa, no rio de Contas (ISA)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Depois que a aldeia de Caranguejo desapareceu, após 1865, os Kariri-Sapuyá e os Kamakã se reuniram em Pedra Branca, de onde foram expulsos, provavelmente em 1884; parte deles foi aniquilada e parte se dispersou (ISA, Pataxó Hã-Hã-Hãe).",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Patax%C3%B3_H%C3%A3-H%C3%A3-H%C3%A3e",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Pataxó Hã-Hã-Hãe (Jurema Machado de Andrade Souza e Maria Rosário Carvalho)",
+    "tipo": "artigo",
+    "data": "2005-05"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A fonte diz \"provavelmente em 1884\"."
  },
  {
   "id": "pojicha-fazenda-otoni-1885",
@@ -4120,6 +5332,55 @@
   ],
   "nota_data": "O ISA dá o relato de Euclides da Cunha, que visitou a região em 1904 e 1905; a captura é anterior à visita.",
   "data_estimada": true
+ },
+ {
+  "id": "jauaperi-expedicao-punitiva-1905",
+  "titulo": "Expedição punitiva do governo do Amazonas massacra os Waimiri-Atroari do rio Jauaperi",
+  "data_inicio": "1905",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "AM",
+   "regiao": "Rio Jauaperi",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Waimiri-Atroari (chamados de \"Yauapery\" nas fontes da época)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 283,
+   "max": 390,
+   "unidade": "pessoas",
+   "observacao": "As fontes divergem: \"283 (duzentos e oitenta e três) índios mortos ficaram a apodrecer ao sol\" (jornal de Manaus citado por Alípio Bandeira, 1926); \"segundo consta mataram cerca de 390 indivíduos de ambos os sexos e todas as idades\" (Koch-Grünberg e Hübner, 1907). Segundo os dois relatos, indígenas foram trancados numa maloca e queimados vivos."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Apesar dos protestos da imprensa e de parte da sociedade de Manaus, \"o mandante e os executores jamais foram responsabilizados ou mesmo processados criminalmente\" (Monte, 1992).",
+  "resumo": "Em 1905, depois da notícia de mortes de seringueiros no Jauaperi, o governador Constantino Nery mandou uma expedição punitiva de 50 soldados da polícia, comandada pelo capitão Julio Olympio da Rocha Catingueira e guiada por um indígena tomado na infância pela família Horta. Os soldados mataram centenas de Waimiri-Atroari e incendiaram uma aldeia com os moradores dentro (Monte, 1992).",
+  "fontes": [
+   {
+    "url": "https://pesquisa.museudoindio.gov.br/uploads/r/museu-nacional-dos-povos-indigenas/0/4/f/04f54cf12e04da0243119687f96342fab1e8083e28551cced3d3e360d3d5c7d5/MONTE_PAULO_-_ETNO-HISTORIA_WAIMIRI-ATROARI_1663-1962.pdf",
+    "veiculo": "Paulo Pinto Monte, \"Etno-história Waimiri-Atroari (1663-1962)\", dissertação de mestrado, PUC-SP (acervo do Museu Nacional dos Povos Indígenas)",
+    "tipo": "artigo",
+    "data": "1992"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 18,
+    "max": 18,
+    "unidade": "presos",
+    "observacao": "18 homens e mulheres levados presos a Manaus, algemados, de cabeça raspada e vestidos com uniformes de soldados; dois morreram pouco depois da chegada (Koch-Grünberg)."
+   }
+  ]
  },
  {
   "id": "tarauaca-cacadas-escravizacao-1906",
@@ -5567,9 +6828,9 @@
   ],
   "tipo": "morte",
   "vitimas": {
-   "min": 6615,
+   "min": 6603,
    "max": null,
-   "observacao": "Total do relatório: 8.350. 1735 vítima(s) de 34 caso(s) de 1946–1988 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). Estimativa mínima da Comissão Nacional da Verdade (2014) para apenas 10 povos analisados; o total real é considerado muito maior. Inclui eventos que aparecem como cards separados. Composição da estimativa (nota 2, p. 254): cerca de 1.180 Tapayuna, 118 Parakanã, 72 Araweté, mais de 14 Arara, 176 Panará, 2.650 Waimiri-Atroari, 3.500 Cinta Larga, 192 Xetá, no mínimo 354 Yanomami e 85 Xavante de Marãiwatsédé. A CNV diz não ousar apresentar estimativas para os Guarani e Kaiowá mortos no MS e no PR (nota 3)."
+   "observacao": "Total do relatório: 8.350. 1747 vítima(s) de 38 caso(s) de 1946–1988 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). Estimativa mínima da Comissão Nacional da Verdade (2014) para apenas 10 povos analisados; o total real é considerado muito maior. Inclui eventos que aparecem como cards separados. Composição da estimativa (nota 2, p. 254): cerca de 1.180 Tapayuna, 118 Parakanã, 72 Araweté, mais de 14 Arara, 176 Panará, 2.650 Waimiri-Atroari, 3.500 Cinta Larga, 192 Xetá, no mínimo 354 Yanomami e 85 Xavante de Marãiwatsédé. A CNV diz não ousar apresentar estimativas para os Guarani e Kaiowá mortos no MS e no PR (nota 3)."
   },
   "natureza_contagem": "estimada",
   "grau_confirmacao": "oficial",
@@ -5716,6 +6977,48 @@
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "alalau-chacina-waimiri-atroari-1949",
+  "titulo": "Milícia de castanheiros e caçadores de jacaré chefiada por Ramiro Ferreira da Silva massacra Waimiri-Atroari no rio Alalaú",
+  "data_inicio": "1949-01",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "AM",
+   "regiao": "Rio Alalaú, afluente do Jauaperi",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Waimiri-Atroari"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 5,
+   "max": 72,
+   "unidade": "pessoas",
+   "observacao": "As fontes divergem: \"mais de 70\" (Monte); \"72 indígenas\" e, antes, 55 (imprensa de Manaus, março de 1949); \"Em vez de 70 foram mortos 7 índios Waimirí\" (Jornal do Comércio, 17/03/1949); Gentil Horta, da família inimiga dos Waimiri-Atroari, disse ter visto sete corpos, \"5 de índios e 2 de civilizados\". Os funcionários do SPI não tiveram acesso aos corpos por causa da cheia do rio."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O SPI apresentou queixa-crime à polícia em 10/03/1949, e Ramiro Ferreira da Silva, apontado como mandante, foi preso e interrogado em 11/03/1949. Sem informação sobre julgamento (Monte, 1992).",
+  "resumo": "Em 1949, comerciantes e extrativistas de Moura e Carvoeiro organizaram uma milícia de castanheiros e caçadores de jacaré para desalojar os Waimiri-Atroari do Jauaperi. Segundo a imprensa de Manaus, o grupo cercou numa ilhota indígenas que se aproximavam em busca de presentes e os matou a tiros de rifle (Monte, 1992).",
+  "fontes": [
+   {
+    "url": "https://pesquisa.museudoindio.gov.br/uploads/r/museu-nacional-dos-povos-indigenas/0/4/f/04f54cf12e04da0243119687f96342fab1e8083e28551cced3d3e360d3d5c7d5/MONTE_PAULO_-_ETNO-HISTORIA_WAIMIRI-ATROARI_1663-1962.pdf",
+    "veiculo": "Paulo Pinto Monte, \"Etno-história Waimiri-Atroari (1663-1962)\", dissertação de mestrado, PUC-SP (acervo do Museu Nacional dos Povos Indígenas)",
+    "tipo": "artigo",
+    "data": "1992"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "Monte diz que a milícia foi organizada em janeiro de 1949; a imprensa de Manaus noticiou o massacre em 22/02/1949."
  },
  {
   "id": "kaxarari-cativeiro-quaresma-1950",
@@ -6277,7 +7580,7 @@
    "min": null,
    "max": null,
    "unidade": "deslocados",
-   "observacao": "Sem número de pessoas. Nenhuma estimativa encontrada nas fontes consultadas. As fontes divergem quanto à data: 1957 segundo a CNV; \"em 1953 para o Posto Indígena Maxakalí, de onde retornaram a pé em 1959\" segundo o ISA."
+   "observacao": "Sem número de pessoas. Nenhuma estimativa encontrada nas fontes consultadas. As fontes divergem quanto à data: 1957 segundo a CNV; \"em 1953 para o Posto Indígena Maxakalí, de onde retornaram a pé em 1959\" segundo o ISA; \"em 1958\" para o Posto Indígena Maxacali segundo o relatório-síntese do governo de Minas Gerais (1984); \"no final de 1957\", com retorno \"após dois anos\" numa viagem de cerca de três meses, segundo o MPF (2015)."
   },
   "natureza_contagem": "documentada",
   "grau_confirmacao": "oficial",
@@ -6296,6 +7599,18 @@
     "veiculo": "ISA — Povos Indígenas no Brasil, Krenak (Maria Hilda Baqueiro Paraiso)",
     "tipo": "artigo",
     "data": null
+   },
+   {
+    "url": "https://justicadetransicao.mpf.mp.br/documentos-1/AIND_1_Requerimento_Anistia_Krenak.pdf/at_download/file",
+    "veiculo": "Ministério Público Federal, 6ª CCR, requerimento de anistia política do povo Krenak (2015)",
+    "tipo": "oficial",
+    "data": "2015"
+   },
+   {
+    "url": "https://acervo.socioambiental.org/sites/default/files/documents/KQD00029.pdf",
+    "veiculo": "Governo de Minas Gerais, Secretaria do Trabalho, Ação Social e Desportos, \"Relatório síntese: situação dos índios Krenak\" (Governador Valadares, 19/06/1984; acervo ISA)",
+    "tipo": "oficial",
+    "data": "1984-06-19"
    }
   ],
   "imagem": null,
@@ -6417,7 +7732,7 @@
    "min": 1,
    "max": 1,
    "unidade": "terras",
-   "observacao": "A lei pretendia reduzir a reserva. Mesmo depois da decisão do STF, a Funai homologou a TI em 1981 com 538.535 hectares, \"uma redução de quase 50%\"; em 2014 invasores ainda criavam gado em cerca de 150 mil hectares (CNV). Pelo ISA, em 1961 já havia \"61 contratos individuais com arrendatários\"; a demarcação de 1981 deixou de fora a aldeia Xatelôdo, e em 1983 eram \"1.868 os posseiros\" na terra indígena, com conflitos em 1982 e 1983."
+   "observacao": "A lei pretendia reduzir a reserva. Mesmo depois da decisão do STF, a Funai homologou a TI em 1981 com 538.535 hectares, \"uma redução de quase 50%\"; em 2014 invasores ainda criavam gado em cerca de 150 mil hectares (CNV). Pelo ISA, em 1961 já havia \"61 contratos individuais com arrendatários\"; a demarcação de 1981 deixou de fora a aldeia Xatelôdo, e em 1983 eram \"1.868 os posseiros\" na terra indígena, com conflitos em 1982 e 1983. Na gleba Nabileque, o arrendamento a pecuaristas começou em 1955, depois de uma cheia do rio Paraguai, segundo ata de 1963 da Associação dos Criadores do sul de Mato Grosso; o relator do Relatório Figueiredo escreveu que \"as ricas terras do Nabileque foram invadidas por fazendeiros poderosos e é muito difícil retirá-los um dia\" (Moraes)."
   },
   "natureza_contagem": "documentada",
   "grau_confirmacao": "oficial",
@@ -6434,6 +7749,12 @@
    {
     "url": "https://pib.socioambiental.org/pt/Povo:Kadiw%C3%A9u",
     "veiculo": "ISA — Povos Indígenas no Brasil, Kadiwéu",
+    "tipo": "artigo",
+    "data": null
+   },
+   {
+    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945022_b3ae1300f33a902b0d93e6704204fb41.pdf",
+    "veiculo": "José Augusto Santos Moraes (UFGD), \"Violência e corrupção no SPI: a situação dos indígenas no sul do Mato Grosso, uma abordagem a partir do Relatório Figueiredo (1960-1967)\", anais da ANPUH",
     "tipo": "artigo",
     "data": null
    }
@@ -6635,6 +7956,47 @@
   ],
   "nota_data": "O depoente diz \"Até 1959, a gente ficou em Sanga-Funda\"; a morte foi nesse período, sem ano exato.",
   "data_estimada": true
+ },
+ {
+  "id": "ilha-do-bananal-invasao-gado",
+  "titulo": "Criadores de gado invadem a Ilha do Bananal, com taxa de pastagem cobrada pela Funai",
+  "data_inicio": "1960",
+  "data_fim": "2008",
+  "precisao_data": "decada",
+  "local": {
+   "municipio": null,
+   "uf": "TO",
+   "regiao": "Ilha do Bananal (médio Araguaia)",
+   "terra_indigena": "Parque do Araguaia"
+  },
+  "povos": [
+   "Javaé",
+   "Iny (Karajá)"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "terras",
+   "observacao": "Uma terra indígena. Em 1990 havia 11.000 moradores não indígenas na ilha (Sucam) e, em 1991, 300.000 cabeças de gado usavam suas pastagens (Funai); em 1993, a Funai encontrou 930 \"retiros\" com 4.650 pessoas. O gado destruiu roças e cemitérios indígenas. Os assentamentos do Incra para os não indígenas retirados foram instalados em terras tradicionalmente usadas pelos Javaé e Avá-Canoeiro."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Em 1989, um grupo de Javaé denunciou a invasão à Procuradoria-Geral da República, e a Justiça mandou a Funai retirar os invasores. A retirada começou nos anos 1990 e só foi completa na seca de 2008, depois de nova decisão judicial; em setembro de 2009, um acordo mediado pelo MPF e pela Funai permitiu a volta do gado das grandes fazendas, sob controle dos Javaé.",
+  "resumo": "A partir dos anos 1960, criadores de gado das fazendas vizinhas passaram a usar a Ilha do Bananal; em 1969, a Funai instituiu uma taxa pelo uso das pastagens, o que \"contribuiu para legitimar indevidamente a invasão\". As invasões chegaram ao auge nos anos 1980, com dois povoados consolidados dentro da ilha (Rodrigues, ISA).",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/files/file/PIB_verbetes/javae/invasao_e_desocupacao_ilha_bananal.pdf",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Javaé: \"A invasão e a desocupação da Ilha do Bananal\" (Patrícia de Mendonça Rodrigues)",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "tronco-rio-das-cobras-spi",
@@ -6997,7 +8359,7 @@
    "min": 8,
    "max": 31,
    "unidade": "pessoas",
-   "observacao": "ESTIMATIVA com divergência. A denúncia do Ministério Público (1978) fala em oito mortos, \"cinco adultos e três crianças\"; o relatório da Funai de 1980, com base nos relatos de Waldemar Cabixi e Maria Piuan, fala em 31 mortos num grupo de cerca de 57 pessoas (Brito, 2022, pp. 126–127). O ISA também registra 31 mortos de um grupo de 52."
+   "observacao": "ESTIMATIVA com divergência. A denúncia do Ministério Público (1978) fala em oito mortos, \"cinco adultos e três crianças\"; o relatório da Funai de 1980, com base nos relatos de Waldemar Cabixi e Maria Piuan, fala em 31 mortos num grupo de cerca de 57 pessoas (Brito, 2022, pp. 126–127). O ISA também registra 31 mortos de um grupo de 52. O verbete do ISA sobre os Uru-Eu-Wau-Wau registra o mesmo episódio como \"massacre provocado pelo senhor Manoel Lucindo às aldeias dos Oro-Towati\" e o data de 1946, mas os ofícios do SPI sobre a interdição da área do Seringal São Luiz que cita são de 1964 (30/64, 32/64, 33/64). A Anistia Internacional (1992), na seção sobre os Uru-Eu-Wau-Wau, descreve um massacre de 1963 por trabalhadores do seringal \"São Tomé\", liderados pelo dono, com os mesmos relatos de crueldade, 31 mortos e 28 pessoas sequestradas, \"most of them women and children\"."
   },
   "natureza_contagem": "estimada",
   "grau_confirmacao": "apurado",
@@ -7016,6 +8378,18 @@
     "veiculo": "Antonio Guimarães Brito, \"o processo crime 6.362/78 e a etnografia do genocídio contra o povo Oro Win (Oro Towati)\", Aceno, v. 9, n. 20, 2022, pp. 126–128 (PDF, cópia em data/fontes/historico/)",
     "tipo": "artigo",
     "data": "2022"
+   },
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Uru-Eu-Wau-Wau",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Uru-Eu-Wau-Wau",
+    "tipo": "artigo",
+    "data": null
+   },
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92), p. 11–12",
+    "tipo": "relatorio",
+    "data": "1992-12"
    }
   ],
   "imagem": null,
@@ -7028,7 +8402,7 @@
     "min": null,
     "max": null,
     "unidade": "escravizados",
-    "observacao": "ESCRAVIZAÇÃO: dezesseis sobreviventes foram capturados depois do massacre, e os sobreviventes foram levados ao seringal São Luís, \"onde eram obrigados a trabalharem somente pela comida\"; depois, sarampo e gripe deixaram \"oito adultos e doze crianças\" (relatório da Funai de 1980, citado por Brito, 2022, p. 127). O ISA diz que foram forçados a trabalhar no seringal por quase vinte anos."
+    "observacao": "ESCRAVIZAÇÃO: dezesseis sobreviventes foram capturados depois do massacre, e os sobreviventes foram levados ao seringal São Luís, \"onde eram obrigados a trabalharem somente pela comida\"; depois, sarampo e gripe deixaram \"oito adultos e doze crianças\" (relatório da Funai de 1980, citado por Brito, 2022, p. 127). O ISA diz que foram forçados a trabalhar no seringal por quase vinte anos. A Anistia (1992) fala em 28 pessoas sequestradas depois do massacre."
    }
   ]
  },
@@ -7179,6 +8553,46 @@
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "bororo-tereza-cristina-1965",
+  "titulo": "SPI e governo de Mato Grosso \"legalizam\" invasão de 35 mil hectares de terra bororo",
+  "data_inicio": "1965",
+  "data_fim": "1966",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "MT",
+   "regiao": "Centro-norte de Mato Grosso",
+   "terra_indigena": "Tereza Cristina"
+  },
+  "povos": [
+   "Boe (Bororo)"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "terras",
+   "observacao": "Uma terra indígena: 35 mil hectares invadidos, segundo o Relatório Figueiredo citado por Moraes. Entre os invasores havia parentes de autoridades mato-grossenses."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "A Comissão de Inquérito do Ministério do Interior (Relatório Figueiredo, 1968, fls. 991 e 1519) repudiou o acordo. Em 7/11/1966, o chefe da 6ª Inspetoria do SPI, Hélio Jorge Bucker, protestou ao diretor do órgão contra a \"espoliação\" do patrimônio dos Bororo da Reserva Tereza Cristina. Sem informação sobre o desfecho nas fontes consultadas.",
+  "resumo": "Em 1965, um acordo entre o SPI e o governo de Mato Grosso \"legalizou\" a invasão de 35 mil hectares dos Bororo, ocupados por grupos que incluíam parentes de autoridades do estado. Em 1966, o governador pediu que as terras invadidas fossem oficialmente doadas (Relatório Figueiredo, citado por Moraes).",
+  "fontes": [
+   {
+    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548945022_b3ae1300f33a902b0d93e6704204fb41.pdf",
+    "veiculo": "José Augusto Santos Moraes (UFGD), \"Violência e corrupção no SPI: a situação dos indígenas no sul do Mato Grosso, uma abordagem a partir do Relatório Figueiredo (1960-1967)\", anais da ANPUH",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "operacao-kaiabi-1966",
@@ -7716,6 +9130,12 @@
     "veiculo": "Comissão Nacional da Verdade, Relatório, vol. II, texto 5, pp. 244–245 (2014; cópia em marxists.org)",
     "tipo": "oficial",
     "data": "2014-12"
+   },
+   {
+    "url": "https://justicadetransicao.mpf.mp.br/documentos-1/AIND_1_Requerimento_Anistia_Krenak.pdf/at_download/file",
+    "veiculo": "Ministério Público Federal, 6ª CCR, requerimento de anistia política do povo Krenak (2015)",
+    "tipo": "oficial",
+    "data": "2015"
    }
   ],
   "imagem": null,
@@ -8188,6 +9608,49 @@
   ],
   "nota_data": "Captura em 1973; a transferência para os Javaé ocorreu \"ao fim de dois anos\" (CNV). O card ava-canoeiro-massacre (1962) trata do massacre por fazendeiros.",
   "data_estimada": true
+ },
+ {
+  "id": "caieiras-velha-fazenda-guarani-1973",
+  "titulo": "Funai leva Guarani e Tupiniquim de Caieiras Velha para a Fazenda Guarani, abrindo caminho à Aracruz Celulose",
+  "data_inicio": "1973",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Aracruz",
+   "uf": "ES",
+   "regiao": "De Caieiras Velha (Aracruz, ES) para a Fazenda Guarani (Carmésia, MG)",
+   "terra_indigena": "Caieiras Velha"
+  },
+  "povos": [
+   "Guarani",
+   "Tupiniquim"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 57,
+   "max": 57,
+   "unidade": "deslocados",
+   "observacao": "46 Guarani e 11 Tupinikim (Prezia, Porantim, out/2012, citado pelo MPF). A mesma passagem diz que \"várias famílias Pataxó\" do extremo sul da Bahia e famílias Pataxó Hã-Hã-Hãe da Caramuru-Catarina Paraguassu também foram enviadas à fazenda, sem número nem data."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Segundo o MPF, que cita o historiador Benedito Prezia, a Funai levou 46 Guarani e 11 Tupinikim de Caieiras Velha para a Fazenda Guarani, em Minas Gerais, \"visando facilitar a instalação da Aracruz Celulose na área indígena\". A fazenda também funcionava como centro de detenção de indígenas depois do fim do Reformatório Krenak.",
+  "fontes": [
+   {
+    "url": "https://justicadetransicao.mpf.mp.br/documentos-1/AIND_1_Requerimento_Anistia_Krenak.pdf/at_download/file",
+    "veiculo": "Ministério Público Federal, 6ª CCR, requerimento de anistia política do povo Krenak (2015)",
+    "tipo": "oficial",
+    "data": "2015"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "O texto de Benedito Prezia citado pelo MPF diz \"no ano seguinte\", logo depois de tratar da transferência dos Krenak para a Fazenda Guarani, feita em 15/12/1972."
  },
  {
   "id": "panara-br163",
@@ -9544,6 +11007,46 @@
   "data_estimada": true
  },
  {
+  "id": "jose-atikum-amilton-pachano-1985",
+  "titulo": "Lideranças Atikum José Atikum e Amilton Pachano são mortas depois de denunciar ameaças em Brasília",
+  "data_inicio": "1985",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Floresta",
+   "uf": "PE",
+   "regiao": null,
+   "terra_indigena": "Atikum"
+  },
+  "povos": [
+   "Atikum"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 2,
+   "max": 2,
+   "unidade": "pessoas",
+   "observacao": "José Atikum e Amilton Pachano. A Anistia diz que oito Atikum foram mortos em disputas de terra na década de 1980."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "\"Little is known about this case and no-one has been brought to trial for these killings\" (Anistia, 1991).",
+  "resumo": "Em 1985, as lideranças Atikum José Atikum e Amilton Pachano viajaram mais de 2 mil quilômetros até Brasília para denunciar ameaças de morte e pedir garantias para a comunidade. Foram mortos depois de voltar a Floresta (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190151991en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: Killings of members of the Truka and Atikum indigenous communities in Pernambuco State\" (AMR 19/15/91)",
+    "tipo": "relatorio",
+    "data": "1991-08"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Lideranças Atikum"
+ },
+ {
   "id": "jaguapire-despejo-1985",
   "titulo": "Despejo violento dos Kaiowá de Jaguapiré com policiais militares",
   "data_inicio": "1985-03",
@@ -9589,6 +11092,55 @@
     "max": null,
     "unidade": "estruturas",
     "observacao": "\"Os dois tratores já começaram a destruir as nossas casas e nossas roças\". Mínimo lógico do plural."
+   }
+  ]
+ },
+ {
+  "id": "madalena-familia-atikum-1985",
+  "titulo": "Funcionário da Funai e seu filho são apontados como responsáveis pelo massacre da família Madalena, Atikum",
+  "data_inicio": "1985-12",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Floresta",
+   "uf": "PE",
+   "regiao": null,
+   "terra_indigena": "Atikum"
+  },
+  "povos": [
+   "Atikum"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 4,
+   "max": 4,
+   "unidade": "pessoas",
+   "observacao": "Manoel Antonio da Silva, José Manoel da Silva, Emidio Manoel da Silva e Antonio Manoel da Silva, mortos; \"several others wounded\" (Anistia, 1991, citando relatório regional da Funai de janeiro de 1986)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "O relatório da Funai concluiu: \"Soubemos das vítimas que o funcionário foi o mentor intelectual do plano e seu filho foi o chefe para a execução desse sinistro plano\", e recomendou inquérito da Polícia Federal, que não foi aberto; o funcionário não foi afastado. A comunidade não o considerava indígena, embora a Funai lhe tivesse dado uma \"carteira de índio\" em 1982 (Anistia, 1991).",
+  "resumo": "Em dezembro de 1985, quatro Atikum da família Madalena foram mortos e outros feridos em Floresta. Um relatório da própria Funai apontou como mandante um funcionário do posto indígena, acusado de cultivar maconha nas terras atikum e de impor um \"reino de terror\" na área, e seu filho como executor (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190151991en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: Killings of members of the Truka and Atikum indigenous communities in Pernambuco State\" (AMR 19/15/91)",
+    "tipo": "relatorio",
+    "data": "1991-08"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 2,
+    "max": null,
+    "unidade": "pessoas",
+    "observacao": "Feridos no mesmo ataque; mínimo pelo plural."
    }
   ]
  },
@@ -9857,6 +11409,56 @@
   "origem": "manual"
  },
  {
+  "id": "santa-cruz-operacao-policial-1987",
+  "titulo": "Operação de 160 policiais prende 19 indígenas e espanca moradores da maloca Santa Cruz",
+  "data_inicio": "1987-07-13",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Normandia",
+   "uf": "RR",
+   "regiao": "Maloca Santa Cruz",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi",
+   "Wapixana"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 19,
+   "max": 19,
+   "unidade": "presos",
+   "observacao": "19 indígenas presos, cinco deles menores, e levados a Boa Vista; os adultos passaram 22 dias na penitenciária agrícola. Na operação, policiais espancaram Augusto Paulino, Abel Macuxi e Constâncio Constantino e chutaram uma mulher wapixana grávida."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O Ministério Público reclamou dos abusos policiais, mas a HRW não encontrou nenhuma investigação ou punição. Os presos foram acusados de sequestro, cárcere privado, formação de quadrilha e furto de gado. Em novembro de 1987, a Funai vetou novas ocupações de não indígenas e criou a área Xununuetamu.",
+  "resumo": "Depois que os moradores de Santa Cruz detiveram três jagunços da Fazenda Guanabara, acusados de espancar um indígena e estuprar uma mulher em 09/07/1987, cerca de 160 policiais civis e militares, com helicóptero e metralhadora e sob o comando do secretário de Segurança, invadiram a maloca em 13/07/1987, sem tentar negociar (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 1,
+    "max": null,
+    "unidade": "estruturas",
+    "observacao": "Antes da operação, jagunços da Fazenda Guanabara queimavam casas novas; em 13/02/1987, dois empregados da fazenda e três PMs de Normandia queimaram a casa de Antonico Macuxi."
+   }
+  ]
+ },
+ {
   "id": "djalma-souza-lima-1988",
   "titulo": "Assassinato de Djalma Souza Lima, liderança Pataxó Hã-Hã-Hãe",
   "data_inicio": "1988",
@@ -9896,6 +11498,46 @@
   "origem": "manual",
   "data_estimada": true,
   "nota_data": "A fonte informa apenas o ano."
+ },
+ {
+  "id": "guapore-isolados-coronel-1988",
+  "titulo": "Relatório oficial registra denúncia de assassinato de mais de 20 indígenas isolados no vale do Guaporé",
+  "data_inicio": "1988",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "RO",
+   "regiao": "Perto da fazenda \"Coronel\", entre a Área Indígena Rio Branco e a Reserva Biológica do Guaporé",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Povo isolado não identificado nas fontes"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 21,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Denúncia não confirmada: um relatório oficial de agosto de 1989, citado pela Anistia, diz que \"Last year (1988) there were unconfirmed reports of the killing of more than 20 isolated Indians near the `Coronoel' estate\" e que, segundo rumores, madeireiros também mataram indígenas na reserva biológica em anos anteriores. O mínimo (21) é o menor número que \"more than 20\" admite."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "denuncia",
+  "escala": "caso",
+  "situacao": "Sem investigação conhecida. Em setembro de 1990, o funcionário da Funai Antenor Vaz, que procurava o grupo isolado na reserva, soube que um pistoleiro tinha sido contratado para matá-lo (Anistia, 1992).",
+  "resumo": "Um relatório oficial de 1989 registrou denúncias, não confirmadas, de que mais de 20 indígenas isolados foram mortos em 1988 perto da fazenda \"Coronel\", na região do Guaporé, onde madeireiras extraíam madeira ilegalmente (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "itaparica-tuxa",
@@ -9938,45 +11580,6 @@
     "veiculo": "Philip Fearnside — INPA",
     "tipo": "artigo",
     "data": "2020"
-   }
-  ],
-  "status": "aprovado",
-  "origem": "manual"
- },
- {
-  "id": "ovelario-tames-macuxi-normandia-1988",
-  "titulo": "Policiais militares espancam até a morte Ovelário Tames, Macuxi de 17 anos, na delegacia de Normandia",
-  "data_inicio": "1988",
-  "data_fim": null,
-  "precisao_data": "ano",
-  "local": {
-   "municipio": "Normandia",
-   "uf": "RR",
-   "regiao": null,
-   "terra_indigena": "TI Raposa Serra do Sol"
-  },
-  "povos": [
-   "Macuxi"
-  ],
-  "tipo": "morte",
-  "vitimas": {
-   "min": 1,
-   "max": 1,
-   "observacao": "Ovelário Tames, 17 anos, preso ilegalmente \"por motivo banal\" e espancado por PMs dentro da delegacia."
-  },
-  "natureza_contagem": "documentada",
-  "grau_confirmacao": "oficial",
-  "escala": "caso",
-  "situacao": "O CIR levou o caso à Comissão Interamericana de Direitos Humanos, que determinou indenização à família e retratação pública, com placa numa praça. Os responsáveis nunca foram julgados (Vieira et al., 2011).",
-  "lideranca": null,
-  "resumo": "Ovelário Tames foi preso e morreu em consequência dos ferimentos sofridos na delegacia de Normandia.",
-  "imagem": null,
-  "fontes": [
-   {
-    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548856592_cb0790eb53315bcfe4531dc8ee7e8187.pdf",
-    "veiculo": "Vieira, Silva e Ramalho, ANPUH XXVI",
-    "tipo": "artigo",
-    "data": "2011-07"
    }
   ],
   "status": "aprovado",
@@ -10034,6 +11637,146 @@
     "observacao": "23 Tikuna feridos (Anistia Internacional)."
    }
   ]
+ },
+ {
+  "id": "caraparu-prisoes-em-massa-1988",
+  "titulo": "Polícia e empregados de fazendeiro destroem retiro e curral e prendem em massa os Macuxi de Caraparu",
+  "data_inicio": "1988-04-15",
+  "data_fim": "1988-05-06",
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Maloca Caraparu",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 116,
+   "max": null,
+   "unidade": "presos",
+   "observacao": "Três operações: sete presos em 15/04/1988 e mantidos incomunicáveis na penitenciária até 12/05; 65 presos na segunda (\"sixty-eight\" em outro trecho da mesma fonte), quatro deles mantidos 18 dias; 116 presos na terceira, em 06/05/1988, incluindo mulheres e crianças. O mínimo é o da maior operação, porque as listas podem repetir pessoas. Um preso foi ferido com um galho de espinhos e outro, Matias, chutado nas costelas."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Ao soltar os sete primeiros, o juiz disse que eles não podiam voltar à aldeia e deveriam ir morar na área yanomami (HRW). Sem informação sobre investigação dos policiais.",
+  "resumo": "Em abril e maio de 1988, cada vez que os Macuxi de Caraparu reconstruíam um retiro e um curral, a polícia de Roraima voltava, com empregados do fazendeiro, destruía tudo e prendia os presentes, até 116 pessoas na terceira operação (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 2,
+    "max": null,
+    "unidade": "estruturas",
+    "observacao": "O retiro e o curral, destruídos e queimados duas vezes, com participação do vaqueiro e do filho do fazendeiro Jair Alves dos Reis."
+   }
+  ]
+ },
+ {
+  "id": "donaldo-williams-macuxi-1988",
+  "titulo": "Pretendente à terra mata a tiros Donaldo Williams, Macuxi, na comunidade Kenarrapi",
+  "data_inicio": "1988-09-05",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Comunidade Kenarrapi (\"Canawapai\" na CIDH)",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Donaldo Williams, morto quando voltava para a canoa depois de ajudar a construir um curral. A mulher dele e dois colegas do atirador testemunharam."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O autor foi preso e solto pouco depois; voltou à área e continuou a ameaçar a comunidade, inclusive parentes de Donaldo (\"I'll do the same to you as was done to the other one\", em janeiro de 1991) (Anistia, 1992).",
+  "resumo": "Em 05/09/1988, Donaldo Williams, Macuxi da comunidade Kenarrapi, na Raposa Serra do Sol, foi morto a tiros por um homem que disputava a terra com os indígenas (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "ovelario-tames-macuxi-normandia-1988",
+  "titulo": "Policiais militares espancam até a morte Ovelário Tames, Macuxi de 17 anos, na delegacia de Normandia",
+  "data_inicio": "1988-10-23",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Normandia",
+   "uf": "RR",
+   "regiao": null,
+   "terra_indigena": "TI Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "observacao": "Ovelário Tames, 17 anos, preso ilegalmente \"por motivo banal\" e espancado por PMs dentro da delegacia. Encontrado morto na cela na manhã de 23/10/1988; tinha sido preso na véspera, depois de uma briga num comício, com outros indígenas, e todos foram espancados a caminho da cela (Anistia, 1992). A Anistia e a HRW o chamam de \"Velário Tamir\". As fontes divergem quanto aos autores: policiais militares segundo Vieira et al. e a HRW; a Anistia diz que quatro policiais civis foram acusados de lesão corporal seguida de morte."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "O CIR levou o caso à Comissão Interamericana de Direitos Humanos, que determinou indenização à família e retratação pública, com placa numa praça. Os responsáveis nunca foram julgados (Vieira et al., 2011). Em fevereiro de 1991, os policiais acusados não tinham comparecido a nenhuma das três audiências marcadas (Anistia, 1992).",
+  "lideranca": null,
+  "resumo": "Ovelário Tames foi preso e morreu em consequência dos ferimentos sofridos na delegacia de Normandia.",
+  "imagem": null,
+  "fontes": [
+   {
+    "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548856592_cb0790eb53315bcfe4531dc8ee7e8187.pdf",
+    "veiculo": "Vieira, Silva e Ramalho, ANPUH XXVI",
+    "tipo": "artigo",
+    "data": "2011-07"
+   },
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   },
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "status": "aprovado",
+  "origem": "manual"
  },
  {
   "id": "joao-cravim-1988",
@@ -10126,6 +11869,87 @@
   "origem": "manual"
  },
  {
+  "id": "pakaas-novas-revogacao-1990",
+  "titulo": "Governo Sarney revoga a demarcação do Parque Pakaas Novas e abre caminho à invasão da terra uru-eu-wau-wau",
+  "data_inicio": "1990-01",
+  "data_fim": "1991-11",
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "RO",
+   "regiao": "Parque Indígena Pakaas Novas",
+   "terra_indigena": "Uru-Eu-Wau-Wau"
+  },
+  "povos": [
+   "Uru-Eu-Wau-Wau (Jupaú)"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "terras",
+   "observacao": "Uma terra indígena. Segundo a Anistia, foi a primeira vez que uma demarcação foi revogada. Em agosto de 1990, havia indícios de aumento drástico da extração de madeira e minério na área."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "O governo Collor demarcou a área de novo em novembro de 1991, mas garimpeiros e colonos continuaram a invadi-la (Anistia, 1992).",
+  "resumo": "Em janeiro de 1990, ao deixar o governo, o presidente José Sarney revogou a demarcação do Parque Pakaas Novas, terra dos Uru-Eu-Wau-Wau. Políticos locais declararam a reserva aberta à exploração, e garimpeiros e colonos invadiram a área (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "nailton-muniz-esfaqueado-1990",
+  "titulo": "Liderança Pataxó Hã-Hã-Hãe Nailton Muniz é esfaqueado e sobrevive a segundo atentado",
+  "data_inicio": "1990-05",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "BA",
+   "regiao": "Sul da Bahia",
+   "terra_indigena": "Caramuru-Paraguassu"
+  },
+  "povos": [
+   "Pataxó Hã-Hã-Hãe"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Nailton Muniz, esfaqueado. Segundo a Anistia, o mesmo homem teria tentado matá-lo a tiros em 1989."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Não houve inquérito (Anistia, 1992). Nailton atribuiu o atentado às suas críticas públicas à Funai por não proteger a comunidade.",
+  "resumo": "Em maio de 1990, Nailton Muniz, liderança pataxó hã-hã-hãe, sobreviveu ao segundo atentado contra sua vida, a facadas, cometido por um homem empregado no posto local da Funai. Ele o atribuiu às denúncias que fazia contra a omissão do órgão (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Liderança",
+  "violencia_interna": true
+ },
+ {
   "id": "santa-cruz-damiao-mario-macuxi-1990",
   "titulo": "Pistoleiros a serviço de fazendeiro matam Damião Mendes e Mário Davis na maloca Santa Cruz",
   "data_inicio": "1990-06-25",
@@ -10144,12 +11968,12 @@
   "vitimas": {
    "min": 2,
    "max": 2,
-   "observacao": "Mário Davis, 19 anos, e Damião Mendes, 35, mortos a tiros enquanto cuidavam de porcos; os corpos foram achados à margem do rio Maú, a 3 km de casa (Anistia Internacional)."
+   "observacao": "Mário Davis, 19 anos, e Damião Mendes, 35, mortos a tiros enquanto cuidavam de porcos; os corpos foram achados à margem do rio Maú, a 3 km de casa (Anistia Internacional). Antes do crime, em março de 1990, o mesmo capataz espancou Dorico Macuxi com um facão, incendiou a casa de Francisco da Silva e invadiu a de Manoel Gomes Filho (HRW, 1994)."
   },
   "natureza_contagem": "documentada",
   "grau_confirmacao": "apurado",
   "escala": "caso",
-  "situacao": "A Anistia atribui o crime a dois pistoleiros pagos por um fazendeiro; Vieira et al. (2011) apontam o vaqueiro Manuel dos Santos, empregado do fazendeiro Newton Tavares. Um pistoleiro ameaçava Damião havia tempo, e o CIR tinha pedido ao MP e à PF, em abril, medidas contra os pistoleiros. Sem informação sobre julgamento.",
+  "situacao": "A Anistia atribui o crime a dois pistoleiros pagos por um fazendeiro; Vieira et al. (2011) apontam o vaqueiro Manuel dos Santos, empregado do fazendeiro Newton Tavares. Um pistoleiro ameaçava Damião havia tempo, e o CIR tinha pedido ao MP e à PF, em abril, medidas contra os pistoleiros. Manoel Ferreira dos Santos, capataz da Fazenda Guanabara, disse ter matado os dois em legítima defesa; ficou preso dois meses e foi solto em março de 1991. Julgado na Justiça estadual em 10/11/1993, foi absolvido, embora Damião tivesse sido atingido pelas costas; a Funai contratou advogado para recorrer (HRW, 1994).",
   "lideranca": null,
   "resumo": "Dois Macuxi da maloca Santa Cruz, em disputa de terra com o fazendeiro Newton Tavares, foram assassinados. O CIR divulgou o crime em 28/06/1990.",
   "imagem": null,
@@ -10165,10 +11989,995 @@
     "veiculo": "Vieira, Silva e Ramalho, ANPUH XXVI",
     "tipo": "artigo",
     "data": "2011-07"
+   },
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
    }
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "yekuana-auaris-garimpeiros-1990",
+  "titulo": "Garimpeiros matam uma liderança ye'kwana e seu filho em Auaris",
+  "data_inicio": "1990-09-06",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Aldeia Holomai, Auaris (serra Parima)",
+   "terra_indigena": "Yanomami"
+  },
+  "povos": [
+   "Ye'kwana",
+   "Yanomami (Sanumá)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 2,
+   "max": 2,
+   "unidade": "pessoas",
+   "observacao": "Uma liderança ye'kwana de 65 anos, morta com três tiros à queima-roupa, e seu filho, de 25, ferido e depois morto pelos garimpeiros. Os nomes não são citados aqui: a fonte trata os Ye'kwana como \"sub-group of the Yanomami\", e o projeto não nomeia os mortos yanomami."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A Polícia Federal pediu o indiciamento de dez pessoas por homicídio, mas nenhuma foi presa. O procurador-geral da República sugeriu aplicar a lei do genocídio. Em dezembro de 1990, o chefe do grupo de garimpeiros ameaçou um indígena maiongong em Boa Vista e foi solto depois de breve detenção (Anistia).",
+  "resumo": "Em 06/09/1990, cerca de dez garimpeiros armados chegaram à aldeia Holomai, em Auaris, perguntando por uma liderança ye'kwana que tinha unido as comunidades Maiongong e Sanumá, e a mataram com o filho. Na reação dos moradores, três garimpeiros morreram e os demais foram expulsos (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Liderança ye'kwana de Auaris",
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 2,
+    "max": null,
+    "unidade": "pessoas",
+    "observacao": "\"several other villagers had been wounded\", entre eles um cunhado da liderança, Sanumá (Yanomami), atingido no abdome, no rosto e na cabeça, que em janeiro de 1991 ainda tinha chumbo no corpo. Mínimo pelo plural."
+   }
+  ]
+ },
+ {
+  "id": "valdeci-julio-pataxo-pau-brasil-1990",
+  "titulo": "Policiais militares e delegado espancam Valdeci Julio, Pataxó Hã-Hã-Hãe, em Pau Brasil",
+  "data_inicio": "1990-10",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Pau Brasil",
+   "uf": "BA",
+   "regiao": null,
+   "terra_indigena": "Caramuru-Paraguassu"
+  },
+  "povos": [
+   "Pataxó Hã-Hã-Hãe"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 3,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Valdeci Julio e os indígenas que tentaram defendê-lo no mercado, que \"were also beaten\" (mínimo de dois pelo plural)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Um inquérito policial foi aberto, sem notícia de andamento (Anistia, 1992).",
+  "resumo": "Em outubro de 1990, policiais militares espancaram o feirante pataxó hã-hã-hãe Valdeci Julio no mercado de Pau Brasil, por queixa de outro feirante, e bateram nos indígenas que tentaram protegê-lo. À tarde, o delegado e cinco policiais foram à aldeia, atiraram perto dele, o arrastaram pela lama e o espancaram até desmaiar; ele saiu da delegacia sem conseguir ficar de pé e foi hospitalizado (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "lorival-macuxi-agua-fria-1990",
+  "titulo": "Garimpeiros matam Lorival Ribeiro da Silva, Macuxi, em Água Fria",
+  "data_inicio": "1990-11-11",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Água Fria",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Lorival Ribeiro da Silva (grafado \"Riberio\" na fonte), esfaqueado por um garimpeiro e espancado até a morte em público por outros dois."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A polícia civil identificou suspeitos, mas ninguém foi preso (Anistia, 1992).",
+  "resumo": "Em 11/11/1990, em Água Fria, Roraima, o Macuxi Lorival Ribeiro da Silva foi esfaqueado por um garimpeiro e espancado até a morte por outros dois. A Anistia Internacional cita o caso como exemplo de impunidade mesmo com os autores identificados.",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "gilvan-truka-1990",
+  "titulo": "Homens armados sequestram, torturam e matam Antonio Gilvan da Cruz, Truká",
+  "data_inicio": "1990-11-28",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "PE",
+   "regiao": "Ilha de Nossa Senhora da Assunção (rio São Francisco)",
+   "terra_indigena": "Truká"
+  },
+  "povos": [
+   "Truká"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Antonio Gilvan da Cruz, 22 anos, filho mais velho da família. Foi levado amarrado de casa por oito homens armados que se diziam policiais federais; o corpo, com sinais de tortura e um tiro no peito, apareceu horas depois à beira de uma estrada. Não houve necropsia."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A polícia estadual só recolheu o corpo; a Polícia Federal foi ao local em 18/12/1990 e concluiu, em 28/02/1991, que não era possível identificar os autores. A família, que suspeitava de participação policial, teve negado o pedido de reconhecimento de policiais civis de Cabrobó, Ibó e Belém do São Francisco. O MP pediu novas investigações e o caso passou à Justiça Federal. A comunidade suspeitava de um fazendeiro, ex-deputado, com quem disputava terras.",
+  "resumo": "Na manhã de 28/11/1990, oito homens armados à paisana invadiram a casa de uma família truká a tiros, amarraram Antonio Gilvan da Cruz e levaram com eles os papéis da família sobre a posse da terra. Ele foi encontrado morto poucas horas depois. O crime aterrorizou a comunidade, em disputa com um fazendeiro (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   },
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190151991en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: Killings of members of the Truka and Atikum indigenous communities in Pernambuco State\" (AMR 19/15/91)",
+    "tipo": "relatorio",
+    "data": "1991-08"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "abdon-abdias-atikum-1990",
+  "titulo": "Pistoleiros emboscam e matam o cacique Abdon Leonardo da Silva, Atikum, e seu irmão Abdias",
+  "data_inicio": "1990-12-28",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Floresta",
+   "uf": "PE",
+   "regiao": "Aldeia Serra Uma",
+   "terra_indigena": "Atikum"
+  },
+  "povos": [
+   "Atikum"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 2,
+   "max": 2,
+   "unidade": "pessoas",
+   "observacao": "Abdon Leonardo da Silva, cacique, e seu irmão Abdias João da Silva, mortos a tiros por três pistoleiros quando voltavam para a aldeia. Abdon dizia que os oito Atikum mortos desde 1980 tinham sido ameaçados antes por um mesmo funcionário da Funai; um relatório da Funai de 1986 atribuiu a esse funcionário a responsabilidade por quatro dessas mortes."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Inquérito da Polícia Federal concluído em 25/04/1991 pediu a prisão de um funcionário da Funai, de um filho dele e de outros dois homens; o juiz local mandou prender três, mas não o funcionário. Em 19/06/1991, o procurador da República em Pernambuco pediu que o caso fosse para a Justiça Federal. Documentos da sede da Funai levantaram suspeitas de que funcionários locais do órgão participaram do planejamento e do encobrimento das mortes (Anistia).",
+  "resumo": "O cacique Abdon Leonardo da Silva, que denunciava desvios de funcionários locais da Funai e pedia a demarcação das terras atikum, foi emboscado com o irmão por três pistoleiros em 28/12/1990. Entre outubro e dezembro circulavam rumores de que havia 500 mil cruzeiros oferecidos por sua morte, e ele não recebeu proteção (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   },
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190151991en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: Killings of members of the Truka and Atikum indigenous communities in Pernambuco State\" (AMR 19/15/91)",
+    "tipo": "relatorio",
+    "data": "1991-08"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Cacique (Abdon Leonardo da Silva)"
+ },
+ {
+  "id": "cimi-assassinatos-1991",
+  "titulo": "Assassinatos de indígenas em 1991 (Cimi)",
+  "data_inicio": "1991",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 25,
+   "max": 25,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 27. 2 vítima(s) de 2 caso(s) de 1991 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). Segundo o Cimi, citado pela Human Rights Watch: \"166 Indians were assassinated between 1988 and 1991; of these 27 were killed in 1991\". Dos assassinatos de 1991, o Cimi \"knew of only eleven cases in which any investigation was conducted\", com suspeitos presos em só dois. As fontes divergem quanto ao período do acumulado de 166: 1988–1991 no World Report 1993; 1983–1991 no relatório da Americas Watch de maio de 1992."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://www.hrw.org/reports/1993/WR93/Amw-01.htm",
+    "veiculo": "Human Rights Watch, World Report 1993, Brasil",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "genildo-kambiwa-tortura-sao-luis-1991",
+  "titulo": "Polícia civil prende e tortura Genildo Kambiwá em São Luís, segundo o Cimi",
+  "data_inicio": "1991-01-11",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "São Luís",
+   "uf": "MA",
+   "regiao": null,
+   "terra_indigena": null
+  },
+  "povos": [
+   "Kambiwá"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "presos",
+   "observacao": "Genildo Kambiwá, preso num supermercado depois que o administrador regional da Funai se recusou a pagar as compras feitas para uma paciente guajajara com tuberculose."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "denuncia",
+  "escala": "caso",
+  "situacao": "Segundo a Anistia, um inquérito foi aberto.",
+  "resumo": "Em 11/01/1991, Genildo Kambiwá acompanhou a São Luís uma indígena guajajara que precisava de tratamento e foi preso no caixa de um supermercado quando o administrador da Funai se recusou a pagar as compras. Segundo o Cimi no Maranhão, citado pela Anistia, ele foi torturado pela polícia civil sob custódia.",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "claudemilson-macuxi-caraparu-1991",
+  "titulo": "Garimpeiro mata a tiros Claudemilson José Laim, Macuxi, na maloca Caraparu II",
+  "data_inicio": "1991-01-12",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Maloca Caraparu II",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Claudemilson José Laim, 18 anos, morto a tiros por um de dois garimpeiros armados que entraram na aldeia. Segundo a Anistia, ao menos cinco indígenas foram mortos por garimpeiros na área entre 1990 e 1992, depois que os garimpeiros retirados da terra Yanomami invadiram a Raposa Serra do Sol."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A Funai pediu investigação à Polícia Federal, mas o inquérito pouco avançou (Anistia, 1992).",
+  "resumo": "Em 12/01/1991, dois garimpeiros armados entraram na maloca Caraparu II, na Raposa Serra do Sol, e um deles matou a tiros o jovem Claudemilson José Laim. Segundo o CIR, citado pela Anistia, havia então cerca de 30 mil garimpeiros dentro da terra indígena.",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "arnaldo-jose-truka-1991",
+  "titulo": "Pistoleiros matam o jovem Arnaldo José dos Santos, Truká, e ferem seu cunhado",
+  "data_inicio": "1991-03",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Cabrobó",
+   "uf": "PE",
+   "regiao": null,
+   "terra_indigena": "Truká"
+  },
+  "povos": [
+   "Truká"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Arnaldo José dos Santos, 17 anos."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Ao tentar denunciar o crime no batalhão da PM em Cabrobó, Sebastião ouviu do comandante: \"the only bad thing was that you didn't die\". A PM disse que pediria inquérito à polícia civil, mas Sebastião nunca foi ouvido, e a Funai local sugeriu que ele deixasse a área (Anistia, 1992).",
+  "resumo": "Dois pistoleiros mataram o jovem truká Arnaldo José dos Santos, de 17 anos, e feriram seu cunhado, Sebastião Deodato dos Santos, que os identificou. A denúncia não resultou em investigação (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "A Anistia não dá a data do ataque; diz que em março de 1991 Sebastião Deodato dos Santos tentou denunciá-lo à PM. O ataque pode ser anterior.",
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 1,
+    "max": 1,
+    "unidade": "pessoas",
+    "observacao": "Sebastião Deodato dos Santos, cunhado de Arnaldo, ferido no ataque; ele identificou os dois pistoleiros."
+   }
+  ]
+ },
+ {
+  "id": "roberto-aureliano-macuxi-normandia-1991",
+  "titulo": "Policiais espancam Roberto Aureliano, Macuxi, na delegacia de Normandia",
+  "data_inicio": "1991-03",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Normandia",
+   "uf": "RR",
+   "regiao": null,
+   "terra_indigena": null
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "presos",
+   "observacao": "Roberto Aureliano, que não fala, foi preso aparentemente por um mal-entendido e espancado sob custódia a ponto de ser hospitalizado depois de solto."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Não houve inquérito; o delegado foi transferido depois, por outra denúncia de tortura (Anistia, 1992).",
+  "resumo": "Em março de 1991, o Macuxi Roberto Aureliano, que não fala, foi detido e levado à mesma delegacia de Normandia onde Ovelário Tames morrera em 1988, e lá foi espancado (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "negarote-colonos-tiros-1991",
+  "titulo": "Colonos atiram em Negarote que defendiam zona de proteção da terra indígena",
+  "data_inicio": "1991-04",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "MT",
+   "regiao": "Borda da área negarote, perto de Vilhena (RO)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Negarote (Nambikwara)"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Um indígena ferido a tiros."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A polícia recebeu a denúncia e as placas dos caminhões de madeira e se recusou a agir (Anistia, 1992).",
+  "resumo": "Em abril de 1991, colonos que desmatavam com tratores a zona de amortecimento negociada pela Funai e pelo Incra na borda da área negarote abriram fogo contra os indígenas que tentavam impedir o desmate e feriram um deles (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "maracana-macuxi-detencao-1991",
+  "titulo": "Polícia civil tenta despejar Macuxi da maloca Maracanã sem mandado e mantém indígenas presos em fazenda",
+  "data_inicio": "1991-06",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Maloca Maracanã",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "presos",
+   "observacao": "Vários indígenas foram levados à casa de um pretendente à terra e mantidos lá por três dias sob interrogatório; dois foram presos e levados a Boa Vista para \"identificação criminal\", sem poder falar com a Funai, e soltos sem acusação no dia seguinte. Prisão arbitrária, sem violência física explícita na fonte."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em junho de 1991, policiais civis tentaram, sem mandado e a pedido de um pretendente à terra, despejar os Macuxi da maloca Maracanã. Indígenas ficaram três dias retidos na sede da fazenda, pressionados a deixar a aldeia (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "antonio-pedro-truka-casa-1991",
+  "titulo": "Três homens queimam a casa de Antonio Pedro dos Santos, Truká, depois de ameaças de posseiros",
+  "data_inicio": "1991-07-28",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "PE",
+   "regiao": null,
+   "terra_indigena": "Truká"
+  },
+  "povos": [
+   "Truká"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "estruturas",
+   "observacao": "A casa e todos os bens da família foram queimados."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Depois de ameaças de morte de posseiros interessados em terras dentro da área truká, a casa de Antonio Pedro dos Santos foi incendiada por três homens em 28/07/1991, com todos os bens da família (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 1,
+    "max": 1,
+    "unidade": "atingidos",
+    "observacao": "Antonio Pedro dos Santos vinha recebendo ameaças de morte de posseiros que queriam terras dentro da área indígena; procurou a Funai e a PF, e a Funai sugeriu que deixasse a área."
+   }
+  ]
+ },
+ {
+  "id": "perdiz-macuxi-pm-destruicao-1991",
+  "titulo": "Policiais militares dão cobertura a fazendeiros que destroem casa e curral na maloca Perdiz",
+  "data_inicio": "1991-12",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Maloca Perdiz",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 4,
+   "max": null,
+   "unidade": "estruturas",
+   "observacao": "Uma casa, um curral e os dois poços da comunidade, entupidos; também galinheiros e cercas destruídos e utensílios, apetrechos de pesca, armas de caça e ferramentas levados."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em dezembro de 1991, 15 policiais militares acompanharam pretendentes a terras na maloca Perdiz e lhes deram cobertura enquanto destruíam uma casa, um curral, galinheiros e cercas e entupiam os dois poços da comunidade (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "cimi-assassinatos-1992",
+  "titulo": "Assassinatos de indígenas em 1992 (Cimi)",
+  "data_inicio": "1992",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 22,
+   "max": 24,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 24–26. 2 vítima(s) de 2 caso(s) de 1992 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). As fontes divergem: \"at least 26 Indians have been assassinated in 1992\", segundo o Cimi citado pela HRW ainda durante o ano (World Report 1993); \"In 1992, CIMI registered twenty-four homicides of Indians\" (HRW, 1994), número repetido no World Report 1995."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://www.hrw.org/reports/1993/WR93/Amw-01.htm",
+    "veiculo": "Human Rights Watch, World Report 1993, Brasil",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   },
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   },
+   {
+    "url": "https://www.hrw.org/reports/1995/WR95/AMERICAS-01.htm",
+    "veiculo": "Human Rights Watch, World Report 1995, Brasil",
+    "tipo": "relatorio",
+    "data": "1994-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "jose-everaldo-xukuru-1992",
+  "titulo": "José Everaldo Rodrigues Bispo, filho do pajé Xukuru, é assassinado durante a disputa pelas terras do Ororubá",
+  "data_inicio": "1992",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Pesqueira",
+   "uf": "PE",
+   "regiao": null,
+   "terra_indigena": "Xukuru"
+  },
+  "povos": [
+   "Xukuru do Ororubá"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "José Everaldo Rodrigues Bispo, filho do pajé Zequinha."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 1992, com o agravamento dos conflitos pela terra em Pesqueira, foi assassinado José Everaldo Rodrigues Bispo, filho do pajé Zequinha, dos Xukuru do Ororubá. Em 1998, o cacique Xicão também seria assassinado (Marco Zero; DHnet).",
+  "fontes": [
+   {
+    "url": "https://marcozero.org/povo-xukuru-recebe-indenizacao-de-us-1-milhao-por-violacoes-de-direitos-indigenas/",
+    "veiculo": "Marco Zero Conteúdo",
+    "tipo": "midia_local",
+    "data": "2020-02-13"
+   },
+   {
+    "url": "https://www.dhnet.org.br/direitos/sos/indios/cf_2002.html",
+    "veiculo": "DHnet, \"A Realidade dos Povos Indígenas no Brasil\" (texto sem autoria indicada, c. 2001)",
+    "tipo": "relatorio",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "baixo-cotingo-batidas-policiais-1992",
+  "titulo": "Policiais e filhos de fazendeiro invadem malocas do Baixo Cotingo, espancam e prendem Macuxi",
+  "data_inicio": "1992-01-28",
+  "data_fim": "1992-01-31",
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Normandia",
+   "uf": "RR",
+   "regiao": "Baixo Cotingo",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 3,
+   "max": null,
+   "unidade": "atingidos",
+   "observacao": "Damasceno de Souza Segundo, preso, algemado, espancado e amarrado numa fazenda, de onde fugiu ainda algemado; um médico constatou dano permanente no ouvido direito. Waldir Tobias, tuxaua da maloca Congresso e vice-coordenador do CIR, e Constâncio Constantino foram detidos e interrogados sob ameaça de prisão. As fontes divergem em detalhes: a Anistia diz que Damasceno foi acorrentado a uma viga na casa de um fazendeiro e que o interrogatório durou três horas; a HRW, que ele foi amarrado a uma árvore na fazenda J.P. e que o interrogatório durou quatro horas."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Damasceno reapareceu em 13/02/1992 e apresentou queixa-crime contra os policiais; seis dias depois, o promotor pediu o arquivamento, aceito pelo juiz em julho de 1992 (HRW). As batidas foram feitas sem mandado e comandadas por um capitão da PM que também reivindicava terras na área.",
+  "resumo": "Entre 28 e 31/01/1992, policiais militares e civis comandados pelo capitão José Wilson da Silva, ele próprio pretendente a terras na Raposa Serra do Sol, entraram sem ordem judicial em cinco malocas macuxi com filhos do dono da Fazenda Progresso, mandaram os indígenas deixar a área e ameaçaram queimar suas casas. Damasceno de Souza Segundo foi espancado e sumiu por duas semanas (Anistia; HRW).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   },
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Tuxaua (Waldir Tobias, também vice-coordenador do CIR)",
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 1,
+    "max": 1,
+    "unidade": "familias",
+    "observacao": "Em 30/01/1992, sem mandado, o capitão José Wilson da Silva levou à força uma família da maloca Barreirinha para vários quilômetros dali; no dia seguinte, a polícia tentou destruir um curral da maloca Curapa e ameaçou os moradores com metralhadoras (queixa-crime do CIR, citada pela HRW)."
+   }
+  ]
+ },
+ {
+  "id": "yanomami-paapiu-garimpeiros-1992",
+  "titulo": "Grupo de 19 garimpeiros mata a tiros um jovem Yanomami perto de Paapiu",
+  "data_inicio": "1992-02-19",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Perto da aldeia de Paapiu",
+   "terra_indigena": "Yanomami"
+  },
+  "povos": [
+   "Yanomami"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Um homem yanomami de 25 anos. O nome não é citado aqui, por respeito à prática yanomami de não nomear os mortos."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 19/02/1992, um jovem Yanomami de 25 anos foi morto a tiros por um grupo de 19 garimpeiros perto de Paapiu, já depois da demarcação da terra yanomami. Moradores da aldeia perseguiram os garimpeiros, e dois deles morreram (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "negarote-emboscada-madeireiros-1992",
+  "titulo": "Pistoleiros emboscam Negarote que tentavam apreender máquinas de extração ilegal de madeira",
+  "data_inicio": "1992-09",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "MT",
+   "regiao": "Área negarote, perto de Vilhena (RO)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Negarote (Nambikwara)"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "atingidos",
+   "observacao": "Ninguém foi ferido. Depois da emboscada, lideranças negarote e funcionários da Funai receberam ameaças de morte e foram seguidos; um madeireiro com mandado de prisão circulava livremente em Vilhena. Mínimo pelo plural."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A Polícia Federal local ignorou as ameaças e não cumpriu o mandado de prisão até a intervenção da sede da Funai junto à PF em Brasília (Anistia, 1992).",
+  "resumo": "Em setembro de 1992, indígenas negarote que tentavam apreender máquinas usadas na extração ilegal de madeira em suas terras foram emboscados por pistoleiros. Em seguida, lideranças e o chefe do posto da Funai passaram a ser ameaçados por madeireiros (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190321992en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: 'We are the land': Indigenous peoples' struggle for human rights\" (AMR 19/32/92)",
+    "tipo": "relatorio",
+    "data": "1992-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "cimi-assassinatos-1993",
+  "titulo": "Assassinatos de indígenas em 1993 (Cimi)",
+  "data_inicio": "1993",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 30,
+   "max": 30,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 43. 13 vítima(s) de 2 caso(s) de 1993 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 43 vítimas em 28 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). Segundo o Cimi, citado pela CIDH, 32 dos 43 assassinatos foram cometidos por não indígenas: oito por garimpeiros, sete em disputas de terra e três por madeireiros. A HRW (1994) acrescenta que em 1993 o Cimi registrou 85 tentativas de assassinato, sete estupros, 29 espancamentos e 18 prisões ilegais de indígenas."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://hrlibrary.umn.edu/iachr/indig-brazil1997.html",
+    "veiculo": "CIDH/OEA, Relatório sobre a situação dos direitos humanos no Brasil (1997), cap. VI, §79 (cópia da Universidade de Minnesota)",
+    "tipo": "oficial",
+    "data": "1997-09-29"
+   },
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "laje-macuxi-casas-queimadas-1993",
+  "titulo": "Fazendeiro e polícia civil destroem cerca e ameaçam Macuxi na maloca Laje, onde casas foram queimadas",
+  "data_inicio": "1993",
+  "data_fim": "1994-03-18",
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Normandia",
+   "uf": "RR",
+   "regiao": "Maloca Laje",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 4,
+   "max": 5,
+   "unidade": "estruturas",
+   "observacao": "Casas queimadas: o morador André Ansieto fala em \"five houses burnt\" e, adiante no mesmo depoimento, em \"four houses burnt in our community\", duas delas em 1993. Ele atribui os incêndios ao conflito com o fazendeiro Hagamenon, seu filho Júnior, empregados e o pistoleiro Manoel Ferreira dos Santos."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Na maloca Laje, comunidade de cerca de cinco famílias, casas e currais foram queimados em 1993 e 1994. Em 18/03/1994, o filho do fazendeiro voltou com a polícia civil de Normandia, o delegado atirou perto do morador André Ansieto e a cerca nova foi destruída (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 1,
+    "max": 1,
+    "unidade": "atingidos",
+    "observacao": "Em 18/03/1994, André Ansieto foi ameaçado de morte, com armas apontadas, por Júnior e quatro empregados; à tarde, o delegado da polícia civil disparou perto dele, e a cerca que ele construía foi derrubada."
+   }
+  ]
+ },
+ {
+  "id": "canauanim-wapixana-tortura-1993",
+  "titulo": "Fazendeiro e policiais civis torturam três Wapixana da Terra Indígena Canauanim",
+  "data_inicio": "1993-01-14",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Boa Vista",
+   "uf": "RR",
+   "regiao": null,
+   "terra_indigena": "Canauanim"
+  },
+  "povos": [
+   "Wapixana"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 3,
+   "max": 3,
+   "unidade": "presos",
+   "observacao": "Denísio Pereira Cadete, Juvenal da Silva Chiuzo e Henrique Sales dos Santos, acusados sem prova de furtar uma vaca do fazendeiro José Rufino. Juvenal foi amarrado e espancado na fazenda; os outros dois foram espancados, ameaçados com armas e submetidos a afogamento simulado e humilhações na delegacia. A polícia já sabia que outra pessoa tinha matado a vaca."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Os três fizeram exame de corpo de delito e apresentaram queixa. A Polícia Federal abriu inquérito em 19/01/1993; um ano e meio depois, seguia aberto e ninguém tinha sido preso (HRW, 1994).",
+  "resumo": "Em 14/01/1993, o fazendeiro José Rufino e parentes amarraram e espancaram o Wapixana Juvenal da Silva Chiuzo e o entregaram à polícia, que prendeu outros dois Wapixana a pedido do fazendeiro. Os três foram torturados e ficaram presos até o dia seguinte, sem comida nem água, até a chegada da Funai (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
  },
  {
   "id": "massacre-haximu",
@@ -10228,6 +13037,321 @@
   "lideranca": null
  },
  {
+  "id": "barreira-pm-urucuri-macuxi-1993",
+  "titulo": "PM de Roraima obriga Macuxi a tirar a roupa e agride idoso em barreira na Raposa Serra do Sol",
+  "data_inicio": "1993-09",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Barreira policial no rio Urucuri",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 3,
+   "max": null,
+   "unidade": "atingidos",
+   "observacao": "Em 26/09/1993, Sebastião Nestor dos Santos, da maloca Pedra Branca, foi obrigado a se despir na revista, como os demais ocupantes de um carro da missão católica; no fim de setembro, um idoso macuxi que só falava a língua foi golpeado com a coronha de um revólver, e outro indígena foi forçado a se despir. Os policiais proibiram os indígenas de falar macuxi."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O comandante da PM negou qualquer abuso na barreira (HRW, 1994).",
+  "resumo": "A partir de setembro de 1993, a Polícia Militar de Roraima manteve uma barreira dentro da Raposa Serra do Sol onde, segundo os Macuxi, indígenas eram retidos por horas, revistados nus e proibidos de falar a própria língua, enquanto fazendeiros e garimpeiros passavam rápido (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "lilas-macuxi-policia-destruicao-1993",
+  "titulo": "Policiais e vaqueiro de fazendeiro destroem retiro e curral e agridem Macuxi na maloca Lilás",
+  "data_inicio": "1993-11-03",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Maloca Lilás",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Edmilson, amarrado, chutado nas costas por dois policiais civis e com uma arma apontada para a cabeça."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 03/11/1993, dois policiais civis, dois militares, uma investigadora e um vaqueiro armado do fazendeiro Zé Cabrito chegaram ao retiro recém-construído por Valcemir de Souza e Edmilson, jogaram fora a comida, agrediram Edmilson e destruíram o retiro e o curral (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 2,
+    "max": 2,
+    "unidade": "estruturas",
+    "observacao": "O retiro (casa provisória), desmontado, e o curral, cortado e queimado."
+   }
+  ]
+ },
+ {
+  "id": "democlides-macuxi-alto-alegre-1993",
+  "titulo": "Homem a serviço da delegacia de Alto Alegre mata Democlides de Albuquerque Carneiro, Macuxi, preso sem mandado",
+  "data_inicio": "1993-11-06",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Alto Alegre",
+   "uf": "RR",
+   "regiao": null,
+   "terra_indigena": null
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Democlides de Albuquerque Carneiro, 26 anos, morto com um tiro na cabeça dentro da delegacia, um dia depois de ser preso por acusação de furto de bicicleta feita pelo filho de um fazendeiro. A polícia disse primeiro que fora suicídio; a necropsia mostrou tiro disparado a distância."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "oficial",
+  "escala": "caso",
+  "situacao": "O inquérito da polícia civil, concluído em 20/11/1993, acusou de homicídio Norberto Bento, que estava no comando da delegacia e confessou; ele estava preso aguardando julgamento em abril de 1994. O secretário de Segurança admitiu que a prisão de Democlides foi ilegal, disse que Bento não era policial de fato e demitiu o delegado. Bento declarou que superiores combinaram registrar a morte como suicídio (HRW, 1994).",
+  "resumo": "Em 06/11/1993, Democlides de Albuquerque Carneiro, Macuxi, preso sem mandado na véspera, foi morto com um tiro na cabeça na delegacia de Alto Alegre. A versão oficial de suicídio caiu com a necropsia, e o responsável pela delegacia confessou o disparo (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "cimi-assassinatos-1994",
+  "titulo": "Assassinatos de indígenas em 1994 (Cimi)",
+  "data_inicio": "1994",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 44,
+   "max": 44,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 45. 1 vítima(s) de 1 caso(s) de 1994 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 45 vítimas em 42 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "bloqueio-raposa-pm-despejo-1994",
+  "titulo": "Polícia Militar desfaz a tiros e trator o bloqueio macuxi na Raposa Serra do Sol",
+  "data_inicio": "1994-03-30",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": null,
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Faustino Pereira da Silva, golpeado nas costas com o lado de um facão por um policial."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 30/03/1994, 28 policiais militares chegaram a um dos bloqueios montados pelo CIR em protesto contra o garimpo, atiraram para o alto, deram dez minutos aos indígenas e passaram a destruir os barracos com um trator (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 3,
+    "max": null,
+    "unidade": "estruturas",
+    "observacao": "Barracos destruídos com trator (mínimo de dois pelo plural) e um poço entupido; bananeiras cortadas e ferramentas, redes e uma bicicleta destruídas."
+   }
+  ]
+ },
+ {
+  "id": "bento-sampaio-macuxi-napoleao-1994",
+  "titulo": "Empregado de fazendeiro mata Bento Sampaio, Macuxi, na maloca Napoleão",
+  "data_inicio": "1994-05-17",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Maloca Napoleão",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Bento Sampaio, morto por Rudney Cesar da Silva, empregado de um fazendeiro."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Em 17/05/1994, Bento Sampaio, Macuxi da maloca Napoleão, foi morto por Rudney Cesar da Silva, empregado de fazendeiro. Ele tinha uma disputa antiga com o fazendeiro José Saraiva, apontada como causa provável do crime (HRW).",
+  "fontes": [
+   {
+    "url": "https://hrw.org/reports/BRAZIL946.PDF",
+    "veiculo": "Human Rights Watch/Americas, \"Brazil: Violence against the Macuxi and Wapixana Indians in Raposa Serra do Sol and Northern Roraima from 1988 to 1994\" (vol. VI, n. 7)",
+    "tipo": "relatorio",
+    "data": "1994-06"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 1,
+    "max": 1,
+    "unidade": "pessoas",
+    "observacao": "Violência sexual: segundo a HRW, o autor também estuprou a esposa de Bento Sampaio."
+   }
+  ]
+ },
+ {
+  "id": "cimi-assassinatos-1995",
+  "titulo": "Assassinatos de indígenas em 1995 (Cimi)",
+  "data_inicio": "1995",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 27,
+   "max": 27,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 30. 3 vítima(s) de 2 caso(s) de 1995 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 30 vítimas em 29 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (30) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
   "id": "korubo-ladario-emboscada-1995",
   "titulo": "Homens emboscam e baleiam Korubo perto da comunidade Ladário; um homem morre",
   "data_inicio": "1995",
@@ -10274,6 +13398,332 @@
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "tanaru-massacre-fazendeiros-1995",
+  "titulo": "Fazendeiros matam os últimos companheiros do indígena isolado do Tanaru",
+  "data_inicio": "1995",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": "RO",
+   "regiao": null,
+   "terra_indigena": "Tanaru"
+  },
+  "povos": [
+   "Povo isolado do Tanaru (nome desconhecido)"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Os \"últimos companheiros de etnia\" do homem que ficou conhecido como \"índio do Tanaru\" ou \"do buraco\"; mínimo pelo plural. O grupo, \"que já era pequeno, acabou dizimado\" (Agência Brasil). Ele viveu sozinho por quase 30 anos e foi encontrado morto em agosto de 2022, aparentemente de causas naturais, segundo a Funai."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Os indígenas isolados da região do Tanaru, em Rondônia, foram alvo de ataques nas décadas de 1980 e 1990, e os últimos companheiros do homem que sobreviveu sozinho foram mortos por fazendeiros, segundo informações da Funai divulgadas pela imprensa.",
+  "fontes": [
+   {
+    "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/indio-do-buraco-considerado-ultimo-sobrevivente-de-seu-povo-e-encontrado-morto-em-rondonia-1.3271996",
+    "veiculo": "Diário do Nordeste (com informações do G1)",
+    "tipo": "noticia",
+    "data": "2022-08-28"
+   },
+   {
+    "url": "https://www.correiodamanha.com.br/noticias/2022/08/18274-morre-ultimo-remanescente-de-grupo-indigena-isolado-na-amazonia.html",
+    "veiculo": "Correio da Manhã (Agência Brasil)",
+    "tipo": "noticia",
+    "data": "2022-08-28"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "As fontes divergem: \"mortos por fazendeiros em 1995\" (Diário do Nordeste, com o G1); \"alvos de diversos ataques durante as décadas de 1980 e 1990\" (Agência Brasil)."
+ },
+ {
+  "id": "tamandua-caraparu-pm-expulsao-1995",
+  "titulo": "Polícia Militar de Roraima e Exército expulsam cerca de 400 Macuxi do retiro Tamanduá e espancam indígenas",
+  "data_inicio": "1995-01-07",
+  "data_fim": "1995-01-14",
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": "Retiro Tamanduá, comunidade Caraparu II (rio Cotingo)",
+   "terra_indigena": "Raposa Serra do Sol"
+  },
+  "povos": [
+   "Macuxi"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 14,
+   "max": 23,
+   "unidade": "pessoas",
+   "observacao": "Em 07/01/1995, \"Nine Macuxi Indians were reportedly beaten with rifle butts and kicked\"; o vaqueiro Adão Soares e o tuxaua João André ficaram feridos e algemados por horas. Em 14/01, policiais \"allegedly beat 14\" dos cerca de 170 Macuxi que voltaram à área. O mínimo é o maior grupo; o máximo, a soma, porque as fontes não dizem se são as mesmas pessoas."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "A CIDH registra que, por causa da violência dos despejos, o órgão federal de águas e energia retirou a autorização da obra da hidrelétrica até que o Congresso a aprovasse. Sem informação sobre investigação dos policiais.",
+  "resumo": "Em 07/01/1995, 50 policiais militares e sete militares do Exército expulsaram cerca de 400 Macuxi da comunidade Caraparu II do retiro Tamanduá, perto das obras da hidrelétrica do Cotingo, que os Macuxi contestavam. Na tentativa de volta, uma semana depois, os policiais destruíram redes e comida e espancaram indígenas (Anistia Internacional; CIDH).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/ar/wp-content/uploads/2021/06/amr190011995en.pdf",
+    "veiculo": "Anistia Internacional, ação urgente UA 18/95 (AMR 19/01/95)",
+    "tipo": "relatorio",
+    "data": "1995-01-20"
+   },
+   {
+    "url": "https://hrlibrary.umn.edu/iachr/indig-brazil1997.html",
+    "veiculo": "CIDH/OEA, Relatório sobre a situação dos direitos humanos no Brasil (1997), cap. VI (cópia da Universidade de Minnesota)",
+    "tipo": "oficial",
+    "data": "1997-09-29"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Tuxaua (João André)",
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 400,
+    "max": 400,
+    "unidade": "deslocados",
+    "observacao": "Cerca de 400 Macuxi expulsos, entre eles mulheres, crianças e idosos; três casas, um curral e um cercado destruídos. A PM montou bloqueio para impedir a volta e disse que gastaria \"até o último cartucho\"."
+   }
+  ]
+ },
+ {
+  "id": "cimi-assassinatos-1996",
+  "titulo": "Assassinatos de indígenas em 1996 (Cimi)",
+  "data_inicio": "1996",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 27,
+   "max": 27,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 27. 0 vítima(s) de 0 caso(s) de 1996 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 27 vítimas em 24 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (27) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "serra-da-mesa-ava-canoeiro-1996",
+  "titulo": "Furnas alaga parte da terra dos Avá-Canoeiro com a hidrelétrica de Serra da Mesa",
+  "data_inicio": "1996",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Minaçu; Colinas do Sul",
+   "uf": "GO",
+   "regiao": null,
+   "terra_indigena": "Avá-Canoeiro"
+  },
+  "povos": [
+   "Avá-Canoeiro"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "terras",
+   "observacao": "Uma terra indígena, declarada em 1996 com cerca de 38.000 ha e \"parcialmente inundada\" pela barragem. A área alagada não é informada na fonte."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Segundo o ISA, Furnas \"degradou a terra indígena, mas só cumpriu algumas das metas do acordo\".",
+  "resumo": "A partir de 1996, a terra dos Avá-Canoeiro, em Minaçu e Colinas do Sul, foi parcialmente inundada pela barragem da hidrelétrica de Serra da Mesa, de Furnas, no rio Tocantins (ISA).",
+  "fontes": [
+   {
+    "url": "https://pib.socioambiental.org/pt/Povo:Av%C3%A1-Canoeiro",
+    "veiculo": "ISA — Povos Indígenas no Brasil, Avá-Canoeiro",
+    "tipo": "artigo",
+    "data": null
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "yanomami-reinvasao-garimpo-1996",
+  "titulo": "Garimpeiros reinvadem a terra yanomami depois que a Polícia Federal suspende a vigilância aérea",
+  "data_inicio": "1996-03",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": null,
+   "uf": "RR",
+   "regiao": null,
+   "terra_indigena": "Yanomami"
+  },
+  "povos": [
+   "Yanomami"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "terras",
+   "observacao": "Estima-se que \"some 2,000 garimpeiros have now settled there\" e que a operação abriu 24 pistas clandestinas (CIDH)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O Ministério da Justiça anunciou nova campanha de retirada no fim de março de 1996, mas, quando o relatório da CIDH foi escrito, ela não tinha sido retomada e os invasores não tinham sido retirados.",
+  "resumo": "No início de março de 1996, a Polícia Federal suspendeu a vigilância por helicóptero da terra yanomami, e garimpeiros e máquinas voltaram de avião. A CIDH registra que a malária entre os Yanomami cresceu 44% em 1995, segundo dados oficiais.",
+  "fontes": [
+   {
+    "url": "https://hrlibrary.umn.edu/iachr/indig-brazil1997.html",
+    "veiculo": "CIDH/OEA, Relatório sobre a situação dos direitos humanos no Brasil (1997), cap. VI (cópia da Universidade de Minnesota)",
+    "tipo": "oficial",
+    "data": "1997-09-29"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "sucuriy-despejo-armado-1996",
+  "titulo": "Fazendeiro e 50 homens armados expulsam 53 Guarani-Kaiowá da área demarcada de Sucuriy, sem ordem judicial",
+  "data_inicio": "1996-12-23",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Maracaju",
+   "uf": "MS",
+   "regiao": null,
+   "terra_indigena": "Sucuriy"
+  },
+  "povos": [
+   "Guarani-Kaiowá"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 53,
+   "max": 53,
+   "unidade": "deslocados",
+   "observacao": "DESLOCAMENTO FORÇADO: 53 pessoas de 14 famílias, que passaram a acampar à beira da estrada a cerca de dois quilômetros de Maracaju."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O delegado de Maracaju também exigiu a saída imediata, sem ordem judicial. A Polícia Federal esteve na área em 24/12 e disse que a volta dependia de decisão judicial, sem oferecer proteção (Anistia, 10/01/1997).",
+  "resumo": "Em 23/12/1996, dois dias depois de os Guarani-Kaiowá ocuparem com dois servidores da Funai uma área já demarcada como indígena em Sucuriy, cerca de 50 homens armados, liderados pelo dono da fazenda e com moradores proeminentes de Maracaju, cercaram o acampamento e, sem ordem judicial, obrigaram as famílias a sair (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190011997en.pdf",
+    "veiculo": "Anistia Internacional, ação urgente UA 09/97 (AMR 19/01/97)",
+    "tipo": "relatorio",
+    "data": "1997-01-10"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 53,
+    "max": 53,
+    "unidade": "atingidos",
+    "observacao": "Cerco armado e ameaças explícitas de violência; depois do despejo, membros do grupo continuaram a assediar e ameaçar a comunidade."
+   }
+  ]
+ },
+ {
+  "id": "cimi-assassinatos-1997",
+  "titulo": "Assassinatos de indígenas em 1997 (Cimi)",
+  "data_inicio": "1997",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 28,
+   "max": 28,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 29. 1 vítima(s) de 1 caso(s) de 1997 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 29 vítimas em 26 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (29) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
  },
  {
   "id": "galdino-pataxo",
@@ -10333,6 +13783,103 @@
   "lideranca": "liderança"
  },
  {
+  "id": "aracruz-autodemarcacao-pf-1998",
+  "titulo": "Polícia Federal interrompe a autodemarcação Tupinikim e Guarani e leva lideranças a Brasília para assinar acordo com a Aracruz",
+  "data_inicio": "1998",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Aracruz",
+   "uf": "ES",
+   "regiao": null,
+   "terra_indigena": "Caieiras Velha; Pau Brasil; Comboios"
+  },
+  "povos": [
+   "Tupiniquim",
+   "Guarani Mbya"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 3,
+   "max": 3,
+   "unidade": "terras",
+   "observacao": "As três terras indígenas, reduzidas em 1998; o acordo com a Aracruz Celulose foi assinado \"under the threat of losing all the lands\"."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Segundo o Cimi (2005), o MPF retirou sua assinatura do acordo ainda em 1998.",
+  "resumo": "Em 1998, quando suas terras foram reduzidas, os Tupinikim e Guarani as demarcaram por conta própria; oito dias depois, a Polícia Federal interrompeu a ação, isolou as aldeias e levou indígenas a Brasília, onde assinaram um acordo com a Aracruz Celulose sob ameaça de perder todas as terras (carta dos indígenas, citada pelo Cimi).",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/?p=23510",
+    "veiculo": "Cimi (versão em inglês), sobre a Aracruz Celulose e as terras Tupinikim e Guarani",
+    "tipo": "indigenista",
+    "data": "2005-05-20"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 2,
+    "max": null,
+    "unidade": "atingidos",
+    "observacao": "Segundo carta dos indígenas ao ministro da Justiça, a polícia \"closed off access to the villages and took us to Brasília, where without any right to counsel and isolated from our communities, we were obliged to sign an agreement\". Mínimo pelo plural; sem violência física descrita."
+   }
+  ]
+ },
+ {
+  "id": "cimi-assassinatos-1998",
+  "titulo": "Assassinatos de indígenas em 1998 (Cimi)",
+  "data_inicio": "1998",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 20,
+   "max": 20,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 21. 1 vítima(s) de 1 caso(s) de 1998 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 21 vítimas em 21 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (21) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
   "id": "xicao-xukuru",
   "titulo": "Assassinato do cacique Xicão Xukuru",
   "data_inicio": "1998-05-20",
@@ -10376,6 +13923,449 @@
   "status": "aprovado",
   "origem": "manual",
   "lideranca": "cacique"
+ },
+ {
+  "id": "cimi-assassinatos-1999",
+  "titulo": "Assassinatos de indígenas em 1999 (Cimi)",
+  "data_inicio": "1999",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 16,
+   "max": 16,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 16. 0 vítima(s) de 0 caso(s) de 1999 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 16 vítimas em 14 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (16) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "cimi-assassinatos-2000",
+  "titulo": "Assassinatos de indígenas em 2000 (Cimi)",
+  "data_inicio": "2000",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 18,
+   "max": 18,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 18. 0 vítima(s) de 0 caso(s) de 2000 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 18 vítimas em 18 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (18) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "potrero-guasu-pistoleiros-2000",
+  "titulo": "Pistoleiros a mando de fazendeiros queimam 35 casas e expulsam os Guarani e Kaiowá de Potrero Guasu",
+  "data_inicio": "2000-01",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Paranhos",
+   "uf": "MS",
+   "regiao": null,
+   "terra_indigena": "Potrero Guasu"
+  },
+  "povos": [
+   "Guarani-Kaiowá"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Os agressores \"dão tiros nos índios e espancam alguns índios, inclusive uma criança\" (Aty Guasu); \"fraturaram as pernas e os braços das crianças e mulheres idosas\" (Benites). A Aty Guasu denuncia também que \"mulheres são estupradas na frente dos maridos e dos filhos\". Mínimo pelo plural. As fontes divergem quanto aos agressores: \"50 jagunços armados e vestidos com roupas do Exército\" (Aty Guasu); \"mais de 100 pistoleiros\" (Benites)."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "denuncia",
+  "escala": "caso",
+  "situacao": "\"Os mandantes e autores não foram punidos pela Justiça Federal até hoje\" (Benites, 2015).",
+  "resumo": "Em janeiro de 2000, por volta da meia-noite, homens armados contratados por fazendeiros invadiram a terra indígena Potrero Guasu, em Paranhos, para expulsar a comunidade, que tinha voltado à área nos anos 1990. Incendiaram as casas, atiraram e espancaram indígenas, segundo a Aty Guasu e Tonico Benites.",
+  "fontes": [
+   {
+    "url": "https://acervo.racismoambiental.net.br/2013/11/14/nota-da-aty-guasu-frente-a-ameaca-de-morte-coletiva-anunciada-pelos-fazendeiros/",
+    "veiculo": "Aty Guasu, nota de 13/11/2013 (republicada por Combate Racismo Ambiental)",
+    "tipo": "midia_indigena",
+    "data": "2013-11-14"
+   },
+   {
+    "url": "https://www.cartacapital.com.br/?p=13585",
+    "veiculo": "Tonico Benites, \"Os ataques a indígenas no MS na visão de uma liderança\", CartaCapital",
+    "tipo": "artigo",
+    "data": "2015-09-16"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "outras_violencias": [
+   {
+    "tipo": "territorio",
+    "min": 35,
+    "max": 35,
+    "unidade": "estruturas",
+    "observacao": "\"Trinta e cinco casas com todos os pertences das famílias indígenas são incendiadas\" (Aty Guasu); Benites diz que \"queimaram todas as habitações\" e expulsaram todos os indígenas."
+   }
+  ]
+ },
+ {
+  "id": "coroa-vermelha-monumento-pm-2000",
+  "titulo": "Cerca de 200 policiais militares entram na terra pataxó de Coroa Vermelha e destroem o Monumento da Resistência",
+  "data_inicio": "2000-04-04",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Santa Cruz Cabrália",
+   "uf": "BA",
+   "regiao": null,
+   "terra_indigena": "Coroa Vermelha"
+  },
+  "povos": [
+   "Pataxó"
+  ],
+  "tipo": "territorio",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "estruturas",
+   "observacao": "O Monumento da Resistência, um mapa da América Latina de 280 m², adornado com artesanato e coral, erguido pelos indígenas ao lado da cruz de aço instalada pelos organizadores da festa oficial sem permissão em terra pataxó."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "O procurador federal responsável pela região tomou medidas judiciais contra a polícia pela entrada ilegal na terra pataxó e pela destruição do monumento (Anistia, 2000).",
+  "resumo": "Em 04/04/2000, semanas antes da comemoração oficial dos 500 anos, cerca de 200 policiais militares da Bahia entraram na reserva pataxó de Coroa Vermelha para destruir o monumento que os indígenas tinham feito em memória do massacre dos povos da América (Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190292000en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: Police violence & the 500th anniversary\" (AMR 19/29/00)",
+    "tipo": "relatorio",
+    "data": "2000-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null
+ },
+ {
+  "id": "porto-seguro-marcha-500-anos-2000",
+  "titulo": "Polícia Militar da Bahia ataca com bombas e balas de borracha a marcha indígena dos 500 anos",
+  "data_inicio": "2000-04-22",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": null,
+   "uf": "BA",
+   "regiao": "Estrada para Coroa Vermelha (Porto Seguro e Santa Cruz Cabrália)",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos",
+   "Xukuru-Kariri"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 2,
+   "max": null,
+   "unidade": "pessoas",
+   "observacao": "Mínimo de indígenas feridos: os tiros \"hit several indigenous leaders, children and other marchers\" (organizadores, via Amazon Watch). No total, \"30 protestors were injured and over 140 temporarily detained\" (Anistia), e a Fundação Nacional de Saúde estimou \"more than 30 people\" levemente feridas; as fontes não dizem quantos eram indígenas. Um indígena Xukuru-Kariri teve as duas pernas queimadas e outras seis pessoas foram hospitalizadas; 30 missionários foram presos. Segundo o relatório da Anistia de dezembro de 2000, cerca de mil manifestantes foram parados às 9h por tropas de choque, e duas horas depois pelo menos 3 mil, liderados por Xavante e Pataxó, foram atacados na divisa de Santa Cruz Cabrália com Porto Seguro: ao menos 30 feridos e 141 detidos, todos soltos depois."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "caso",
+  "situacao": "Uma investigação da Polícia Federal isentou a PM de uso excessivo da força; o Ministério Público Federal a considerou \"inadequate and superficial\". O oficial que comandou a operação foi promovido (Anistia, 18/12/2000). O presidente da Funai, Carlos Frederico Marés, que assistiu à ação, pediu demissão em protesto. Organizações indígenas cobram R$ 6,12 bilhões de indenização na Justiça Federal em Ilhéus (Anistia, 2000).",
+  "resumo": "Em 22/04/2000, na comemoração oficial dos 500 anos, a Polícia Militar da Bahia atacou sem aviso a marcha indígena que seguia para Coroa Vermelha, com gás lacrimogêneo, balas de borracha e cassetetes. Lideranças indígenas e crianças estavam entre os atingidos (Amazon Watch; Anistia Internacional).",
+  "fontes": [
+   {
+    "url": "https://www.amnesty.org.uk/knowledge-hub/all-resources/police-violence-500th-anniversary-new-investigation-needed/",
+    "veiculo": "Anistia Internacional (Reino Unido), \"Police violence on 500th anniversary — new investigation needed\"",
+    "tipo": "relatorio",
+    "data": "2000-12-18"
+   },
+   {
+    "url": "https://amazonwatch.org/news/2000/0422-report-from-the-organizers-of-brazil-the-other-500-indigenous-march",
+    "veiculo": "Amazon Watch, relato dos organizadores da marcha indígena \"Brasil: outros 500\"",
+    "tipo": "noticia",
+    "data": "2000-04-22"
+   },
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190292000en.pdf",
+    "veiculo": "Anistia Internacional, \"Brazil: Police violence & the 500th anniversary\" (AMR 19/29/00)",
+    "tipo": "relatorio",
+    "data": "2000-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Lideranças indígenas atingidas"
+ },
+ {
+  "id": "truka-operacao-policial-liderancas-2000",
+  "titulo": "Polícia invade a reserva Truká com bombas de gás e prende seis lideranças, que o Cimi diz terem sido torturadas",
+  "data_inicio": "2000-05",
+  "data_fim": null,
+  "precisao_data": "mes",
+  "local": {
+   "municipio": "Cabrobó",
+   "uf": "PE",
+   "regiao": null,
+   "terra_indigena": "Truká"
+  },
+  "povos": [
+   "Truká"
+  ],
+  "tipo": "agressao_fisica",
+  "vitimas": {
+   "min": 6,
+   "max": 6,
+   "unidade": "presos",
+   "observacao": "Seis lideranças presas; segundo o Cimi, foram torturadas depois."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "denuncia",
+  "escala": "caso",
+  "situacao": "Sem informação sobre investigação ou responsabilização nas fontes consultadas.",
+  "resumo": "Depois que os Truká retiraram 64 fazendeiros de seu território, a polícia fez uma grande operação na reserva, jogando gás lacrimogêneo de helicópteros, e prendeu seis lideranças. Segundo o Cimi, elas foram torturadas. O combate ao tráfico tem servido de pretexto para as incursões policiais, a serviço de fazendeiros invasores, segundo o Cimi (CNN/Reuters).",
+  "fontes": [
+   {
+    "url": "https://latinamericanstudies.org/brazil/murders.htm",
+    "veiculo": "CNN/Reuters, \"Brazilian police blamed for brutal Indian murders\" (cópia em latinamericanstudies.org)",
+    "tipo": "noticia",
+    "data": "2001-01-12"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Lideranças (seis)",
+  "data_estimada": true,
+  "nota_data": "A notícia de 12/01/2001 diz que a operação ocorreu depois que os Truká retiraram 64 fazendeiros da área \"eight months ago\"; o mês é estimado a partir disso."
+ },
+ {
+  "id": "cimi-assassinatos-2001",
+  "titulo": "Assassinatos de indígenas em 2001 (Cimi)",
+  "data_inicio": "2001",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 16,
+   "max": 16,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 17. 1 vítima(s) de 1 caso(s) de 2001 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 17 vítimas em 16 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (17) na série de 1995 a 2005."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
+ },
+ {
+  "id": "samuel-martins-kaajari-2001",
+  "titulo": "Pistoleiros de fazendeiros matam o líder Samuel Martins e atacam famílias Guarani e Kaiowá em Ka'a Jary",
+  "data_inicio": "2001",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": "Amambai",
+   "uf": "MS",
+   "regiao": null,
+   "terra_indigena": "Ka'a Jary"
+  },
+  "povos": [
+   "Guarani-Kaiowá"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 1,
+   "max": 1,
+   "unidade": "pessoas",
+   "observacao": "Samuel Martins (grafado \"Martim\" por Tonico Benites), morto \"com um tiro no peito pelos pistoleiros dos fazendeiros\"."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "denuncia",
+  "escala": "caso",
+  "situacao": "\"Os mandantes e autores não foram punidos pela Justiça Federal até hoje\" (Benites, 2015).",
+  "resumo": "Em 2001, na terra indígena Ka'a Jary, em Amambai, o líder Samuel Martins foi morto a tiro por pistoleiros de fazendeiros, e as famílias foram atacadas e despejadas por cerca de 100 homens armados, segundo o antropólogo e liderança Tonico Benites e a Aty Guasu.",
+  "fontes": [
+   {
+    "url": "https://www.cartacapital.com.br/?p=13585",
+    "veiculo": "Tonico Benites, \"Os ataques a indígenas no MS na visão de uma liderança\", CartaCapital",
+    "tipo": "artigo",
+    "data": "2015-09-16"
+   },
+   {
+    "url": "https://acervo.racismoambiental.net.br/2013/11/14/nota-da-aty-guasu-frente-a-ameaca-de-morte-coletiva-anunciada-pelos-fazendeiros/",
+    "veiculo": "Aty Guasu, nota de 13/11/2013 (republicada por Combate Racismo Ambiental)",
+    "tipo": "midia_indigena",
+    "data": "2013-11-14"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": "Líder",
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 6,
+    "max": null,
+    "unidade": "pessoas",
+    "observacao": "\"As crianças, idosos, mulheres, Guarani e Kaiowá foram atacadas, torturadas e despejadas violentamente pelos 100 homens fortemente armados\"; os pistoleiros \"fraturaram as pernas e os braços das crianças, mulheres idosas\" (Benites). Mínimo pelo plural (duas de cada grupo)."
+   }
+  ]
+ },
+ {
+  "id": "nilson-jose-de-no-truka-2001",
+  "titulo": "Comunidade Truká acusa policiais de levar de uma ambulância e matar Nilson Félix e o pai, José de Nô Félix",
+  "data_inicio": "2001-01-04",
+  "data_fim": null,
+  "precisao_data": "dia",
+  "local": {
+   "municipio": "Cabrobó",
+   "uf": "PE",
+   "regiao": "Corpos achados em Santa Maria da Boa Vista (perto de Petrolina, segundo a CNN)",
+   "terra_indigena": "Truká"
+  },
+  "povos": [
+   "Truká"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 2,
+   "max": 2,
+   "unidade": "pessoas",
+   "observacao": "Nilson Félix, 16 anos, e o pai, José de Nô Félix, 38. Segundo o motorista da ambulância, citado pela liderança Ailson Truká, cerca de 50 policiais, alguns mascarados, montaram uma barreira na estrada e tiraram os dois do veículo dizendo que os levariam ao hospital. Os corpos foram queimados. Segundo a Anistia, testemunhas dizem que policiais militares de balaclava pararam o carro e levaram pai e filho; a comunidade procurou os dois por três dias e achou os corpos queimados em 07/01, no município de Santa Maria da Boa Vista. As fontes divergem quanto ao local e ao prazo: \"outside the city of Petrolina\" e \"four days later\" segundo a CNN/Reuters."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "denuncia",
+  "escala": "caso",
+  "situacao": "A polícia de Pernambuco abriu inquérito e ouviu cinco testemunhas civis e 15 policiais, sem dar detalhes. O Cimi pediu a intervenção federal na investigação (CNN/Reuters, 12/01/2001). A Anistia (22/01/2001) afirma que os dois foram \"abducted and killed by military police\" e registra que, no mesmo dia, policiais entraram ilegalmente na aldeia em 12 carros, aparentemente para levar o irmão mais novo de Nilson, e depois ameaçaram representantes truká a caminho de Recife (\"someone would blow their heads off\").",
+  "resumo": "Os Truká denunciam que, depois de uma operação policial na reserva em 04/01/2001, em que Nilson Félix foi baleado, policiais pararam a ambulância que o levava com o pai ao hospital de Petrolina e os levaram. Os corpos foram achados dias depois. \"Neighbors saw the police do it\", disse a liderança Ailson Truká.",
+  "fontes": [
+   {
+    "url": "https://latinamericanstudies.org/brazil/murders.htm",
+    "veiculo": "CNN/Reuters, \"Brazilian police blamed for brutal Indian murders\" (cópia em latinamericanstudies.org)",
+    "tipo": "noticia",
+    "data": "2001-01-12"
+   },
+   {
+    "url": "https://www.amnesty.org/en/wp-content/uploads/2021/06/amr190042001en.pdf",
+    "veiculo": "Anistia Internacional, ação urgente UA 17/01 (AMR 19/004/2001)",
+    "tipo": "relatorio",
+    "data": "2001-01-22"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "data_estimada": true,
+  "nota_data": "04/01/2001 é a data do tiroteio entre policiais militares e desconhecidos em Cabrobó, em que Nilson foi atingido, e do sequestro dos dois a caminho do hospital. Os corpos foram achados em 07/01/2001 (Anistia); a data exata das mortes não é conhecida.",
+  "outras_violencias": [
+   {
+    "tipo": "agressao_fisica",
+    "min": 1,
+    "max": 1,
+    "unidade": "pessoas",
+    "observacao": "Nilson foi baleado no braço e no peito durante a invasão policial da reserva, em 04/01/2001."
+   }
+  ]
  },
  {
   "id": "chico-quele-xukuru-2001",
@@ -10427,6 +14417,53 @@
   ],
   "status": "aprovado",
   "origem": "manual"
+ },
+ {
+  "id": "cimi-assassinatos-2002",
+  "titulo": "Assassinatos de indígenas em 2002 (Cimi)",
+  "data_inicio": "2002",
+  "data_fim": null,
+  "precisao_data": "ano",
+  "local": {
+   "municipio": null,
+   "uf": null,
+   "regiao": "Brasil",
+   "terra_indigena": null
+  },
+  "povos": [
+   "Diversos"
+  ],
+  "tipo": "morte",
+  "vitimas": {
+   "min": 7,
+   "max": 7,
+   "unidade": "pessoas",
+   "observacao": "Total do relatório: 7. 0 vítima(s) de 0 caso(s) de 2002 com card próprio neste projeto foram descontadas (aproximação: nem todo caso individual está necessariamente na contagem do relatório). 7 vítimas em 5 casos de homicídio (Quadro I de Rosane Lacerda, Cimi, 2004). O relatório do Cimi de 2003–2005 traz o mesmo número (7) na série de 1995 a 2005. Lacerda compara: em 2003, até outubro, eram 22 assassinados \"contra 07 em todo o ano anterior\"."
+  },
+  "natureza_contagem": "documentada",
+  "grau_confirmacao": "apurado",
+  "escala": "agregado",
+  "situacao": "Dado agregado; os casos individuais têm situações diversas.",
+  "resumo": "Total anual de assassinatos de indígenas registrado pelo Cimi. Os casos com nome, mais detalhes ou outras fontes têm card próprio e foram descontados; este card agrupa os demais casos.",
+  "fontes": [
+   {
+    "url": "https://cimi.org.br/2004/09/22176/",
+    "veiculo": "Cimi — Rosane Lacerda, \"Violências e Povos Indígenas: os primeiros balanços de um amargo 2003\", Quadro I (homicídios de indígenas no Brasil, 1993–2003)",
+    "tipo": "indigenista",
+    "data": "2004-09-23"
+   },
+   {
+    "url": "https://cimi.org.br/wp-content/uploads/2020/02/relatorio-violencia-contra-povos-indigenas_2003-2005-cimi-completo.pdf",
+    "veiculo": "Cimi, \"A violência contra os povos indígenas no Brasil 2003-2005\", p. 13 (tabela \"Assassinatos de Indígenas — 1995 a 2005\")",
+    "tipo": "relatorio",
+    "data": "2006"
+   }
+  ],
+  "imagem": null,
+  "status": "aprovado",
+  "origem": "manual",
+  "lideranca": null,
+  "descontar_casos_individuais": true
  },
  {
   "id": "cimi-assassinatos-2003",
